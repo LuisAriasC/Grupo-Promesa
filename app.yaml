@@ -1,0 +1,6 @@
+runtime: php
+env: flex
+runtime_config:
+  document_root: .
+env_variables:
+  APP_LOG: errorlog
