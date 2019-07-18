@@ -51,6 +51,12 @@ video {
   height: auto;
 }
 
+iframe {
+  width: 100%;
+  height: -webkit-fill-available;
+}
+
+
 .ui.grid {
 	margin: 0 !important;
 }
@@ -80,14 +86,19 @@ video {
 
 /*********** PAGE **********/
 /*********** FIXED MENU ********/
+
+#navbar {
+  height: 9vh;
+}
+
 .menu-height {
-	margin-top: 8vh !important;
+	margin-top: 9.3vh !important;
 }
 
 #logo-item img {
   padding: 0;
   margin: 0;
-  height: 50px;
+  height: 40px;
   width: auto;
 }
 
@@ -118,10 +129,11 @@ video {
 	display: none;
 }
 
+
 /********* INDEX HEADER IMAGE **********/
 #index-header {
   width: 100vw;
-  height: 93vh;
+  height: 92.7vh;
   margin-top: 0;
   background: url(../img/portada.jpg) no-repeat 50% 50% !important;
   background-size: cover !important;
@@ -171,6 +183,12 @@ video {
 #pintro video {
   width: 90%;
 }
+
+#pintro iframe {
+  width: 90%;
+}
+
+
 
 /*--------------------------------------------------------------
 # Sections

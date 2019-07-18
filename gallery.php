@@ -37,7 +37,7 @@ include "php/functions.php";
 		<div class="ui grid">
 
 			<div class="wow fadeIn computer only row m2">
-				<div class="ui borderless fixed menu navbar">
+				<div id="navbar" class="ui borderless fixed menu">
 					<a href="index.php" id="logo-item" class="brand item">
 					  <img src="img/logo.png" alt="logo">
 					</a>
@@ -62,7 +62,7 @@ include "php/functions.php";
 			</div>
 
 			<div class="wow fadeIn mobile tablet only narrow row m2">
-				<div class="ui borderless fixed navbar menu">
+				<div id="navbar" class="ui borderless fixed menu">
 					<a href="index.php" id="logo-item" class="brand item">
 					  <img src="img/logo.png" alt="logo">
 					</a>
@@ -73,7 +73,7 @@ include "php/functions.php";
 					</div>
 				</div>
 
-				<div class="ui borderless vertical fixed navbar menu"  style="margin-top: 8vh !important;">
+				<div class="ui borderless vertical fixed menu">
 					<a href="index.php" class="item">INICIO</a>
 					<a href="aboutUs.php" class="item">SOBRE NOSOTROS</a>
 					<a href="gallery.php" id="active" class="item">GALERÍA</a>

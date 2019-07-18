@@ -38,7 +38,7 @@
 		<div class="ui grid">
 
 			<div class="wow fadeIn computer only row m2">
-			<div class="ui borderless fixed menu navbar">
+				<div id="navbar" class="ui borderless fixed menu">
 					<a href="index.php" id="logo-item" class="brand item">
 					  <img src="img/logo.png" alt="logo">
 					</a>
@@ -64,7 +64,7 @@
 			</div>
 
 			<div class="wow fadeIn mobile tablet only narrow row m2">
-				<div class="ui borderless fixed navbar menu">
+				<div id="navbar" class="ui borderless fixed menu">
 					<a href="index.php" id="logo-item" class="brand item">
 					  <img src="img/logo.png" alt="logo">
 					</a>
@@ -75,7 +75,7 @@
 					</div>
 				</div>
 
-				<div class="ui borderless vertical fixed navbar menu"  style="margin-top: 8vh !important;">
+				<div class="ui borderless vertical fixed menu">
 					<a href="index.php" class="item">INICIO</a>
 					<a href="aboutUs.php" class="item">SOBRE NOSOTROS</a>
 					<a href="gallery.php" class="item">GALERÍA</a>
@@ -100,18 +100,27 @@
 	    	    IMAGE HEADER
 	    	============================-->
         	<div class="wow fadeIn row menu-height">
-        	  <section id="pintro">
-        	    <div class="intro-container">
-        	        <div class="carousel-content">
-						<!-- -------------------   CAMBIAR POR IMAGEN DE PROMESA IAP ----------------------------------- -->
-						<video controls autoplay>
-  							<source src="video/promesaIAP.mp4" type="video/mp4">
-							Your browser does not support the video tag.
-						</video>
-        	            <!-- <img src="img/header_voluntariado.png" alt="Voluntario Promesa"> -->
-        	        </div>
-        	    </div>
-        	  </section>
+				<section id="pintro">
+        	  	  <div class="intro-container">
+        	  	    <div class="carousel-content">
+                          <video controls autoplay>
+  						  <source src="video/promesaIAP.mp4" type="video/mp4">
+						  Your browser does not support the video tag.
+					    </video>
+        	  	      <!-- <img src="img/header_voluntariado.png" alt="Voluntario Promesa"> -->
+        	  	    </div>
+        	  	  </div>
+        	  	</section>
+			<!-- 
+				<iframe 
+					width="560" 
+					height="315" 
+					src="https://www.youtube.com/embed/rdc8bT6k0mU" 
+					frameborder="0" 
+					allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+					allowfullscreen>
+				</iframe>
+			-->
 			</div>
 			
 			<!--==========================

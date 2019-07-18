@@ -37,7 +37,7 @@
 		<div class="ui grid">
 
 			<div class="wow fadeIncomputer only row m2">
-				<div class="ui borderless fixed menu navbar">
+				<div id="navbar" class="ui borderless fixed menu">
 					<a href="index.php" id="logo-item" class="brand item">
 					  <img src="img/logo.png" alt="logo">
 					</a>
@@ -63,7 +63,7 @@
 			</div>
 
 			<div class="wow fadeIn mobile tablet only narrow row m2">
-				<div class="ui borderless fixed navbar menu">
+				<div id="navbar" class="ui borderless fixed menu">
 					<a href="index.php" id="logo-item" class="brand item">
 					  <img src="img/logo.png" alt="logo">
 					</a>
@@ -74,7 +74,7 @@
 					</div>
 				</div>
 
-				<div class="ui borderless vertical fixed navbar menu"  style="margin-top: 8vh !important;">
+				<div class="ui borderless vertical fixed menu">
 					<a href="index.php" class="item">INICIO</a>
 					<a href="aboutUs.php" class="item">SOBRE NOSOTROS</a>
 					<a href="gallery.php" class="item">GALERÍA</a>
@@ -113,7 +113,7 @@
           	============================-->
           	<div class="wow fadeIn row">
 				<section class="section">
-					<div class="ui container">}
+					<div class="ui container">
 
 						<h3>¿QUÉ ES ESCUELA PROMESA?</h3>
 						<p>Es un programa de educación para el desarrollo sostenible que busca transformar la cultura ambiental en las comunidades escolares.</p>
@@ -184,7 +184,7 @@
 						<br>
 						<br>
 						<div class="wow fadeInUp ui one column stackable center aligned page grid">
-            	        |	<div class="column twelve wide">
+            	        	<div class="column twelve wide">
 								<a href="files/escuelaEnLinea.pdf" target="_blank">
             	                	<div id="my-blue" class="ui vertical animated button" tabindex="0">
             	                  		<div class="visible content">MÁS INFORMACIÓN</div>
