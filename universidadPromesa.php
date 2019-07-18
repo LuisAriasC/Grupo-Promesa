@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+	<meta charset="utf-8">
 	<title>Grupo Promesa | Universidad</title>
 
 	<meta content="" name="description">
@@ -9,17 +10,19 @@
 	<meta content="" name="keywords">
 	<meta name="mobile-web-app-capable" content="yes">
 
-	<!-- Libraries CSS Files -->
+	<!-- SEMANTIC UI CSS FILES -->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet" />
-	<!-- Google Fonts -->
+
+	<!-- GOOGLE FONTS -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
-	<!-- Font awesome -->
+	<!-- FONT AWESOME -->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" rel="stylesheet" />
-	<!-- ANIMATE CSS Files -->
+	<!-- ANIMATE CSS FILES -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
 	<!-- MAIN CSS FILES -->
 	<link href="css/style.css" rel="stylesheet" type="text/css">
+
 </head>
 
 <body class="pushable">
@@ -247,8 +250,8 @@
 			-->
 		</div>
 
-    	<!--==========================
-    	FOOTER SECTION
+<!--==========================
+		FOOTER
 		============================-->
 		<div class="wow fadeIn container">
 	      	<footer id="footer">
