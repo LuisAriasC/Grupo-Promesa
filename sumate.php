@@ -195,93 +195,82 @@
 					</div>
         	  	</section>
 			</div>
-		</div>
 
-		<!--==========================
-		FOOTER
-		============================-->
-		<div class="wow fadeIn container">
-	      	<footer id="footer">
 
-          		<div class="footer-top">
-            		<div class="ui container">
+			<!--==========================
+				FOOTER
+          	============================-->
+          	<div class="wow fadeIn row">
+				<section id="footer" class="section">
+					<div class="footer-top">
+						<div class="ui container">
+							<div class="ui stackable two column grid">
+                				<div class="row">
+                			  		<div class="column">
+                			    		<h4>Contacto</h4>
+                			      		Empresa Promesa: ventas@grupopromesa.com<br>
+                			      		Escuela Promesa: teresitab@grupopromesa.mx<br>
+	      					    		General: contacto@grupopromesa.mx<br>
+	      					        	Recursos Humanos: rh@grupopromesa.mx<br>
+										<br>
+                			      		<strong>Telefono:</strong> +52 1 (55) 7590 7605<br>
+                			      		&nbsp&nbspExt 704: Escuelas<br>
+                			      		&nbsp&nbspExt 706: Empresas
+										<br>
+										
+										<a id="my-blue" href="https://www.facebook.com/Grupo-Promesa-134442919990717/" class="ui circular icon button" target="_blank">
+											<i class="facebook f icon"></i>
+										</a>
+										<a id="my-green" href="https://www.instagram.com/grupopromesa/?hl=en" class="ui circular icon button" target="_blank">
+											<i class="instagram icon"></i>
+										</a>
+                			  		</div>
 
-              			<div class="ui stackable two column grid">
-                			<div class="row">
+                			  		<div class="column">
+                			    		<h4>Ubicación</h4>
+	      	    			    		Río Hudson 25, Cuauhtémoc <br>
+                			    		Ciudad de México, CDMX 06500<br>
+										México <br>
+                			    		<div id="googleMap">
+											<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
+                				    			<div style='overflow:hidden;height:250px;width:250px;'>
+                				    				<div id='gmap_canvas' style='height:250px;width:250px;'>
+													</div>
+                				    				<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
+                				    			</div>
+                			    				<script type='text/javascript'>
+                			    				    function init_map(){
+                			    				      	var myOptions = {zoom:10,center:new google.maps.LatLng(19.4261941,-99.17486159999999),mapTypeId: google.maps.MapTypeId.ROADMAP};
+                			    				      	var map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
+                			    				    	var marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(19.4261941,-99.17486159999999)});
+                			    				    	var infowindow = new google.maps.InfoWindow({content:'<strong>Grupo Promesa</strong><br>Río Hudson 25, Cuauhtémoc<br>'});
+                			    				      	google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);
+                			    				    }
+                			    				    google.maps.event.addDomListener(window, 'load', init_map);
+                			    				  </script>
+                			    				</div><!-- MAP -->											
+                			    			</div>
+	      	    			      			<script async defer
+	      	    			      			  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ3-jELLTX7sMp7kyusDedjN9hGxcVq4g&callback=initMap">
+	      	    			      			</script>
+                			  			</div>
+                					</div>
+								</div>
 
-                  				<div class="column footer-contact">
-                    				<h4>Contacto</h4>
-                    				<p>
-                      				Empresa Promesa: ventas@grupopromesa.com<br>
-                      				Escuela Promesa: teresitab@grupopromesa.mx<br>
-	      		    				General: contacto@grupopromesa.mx<br>
-	      		        			Recursos Humanos: rh@grupopromesa.mx<br>
-                      				<strong>Telefono:</strong> +52 1 (55) 7590 7605<br>
-                      				&nbsp&nbspExt 704: Escuelas<br>
-                      				&nbsp&nbspExt 706: Empresas
-									</p>
-									
-                    				<div class="social-links" >
-                      					<a href="https://www.facebook.com/Grupo-Promesa-134442919990717/" class="ui circular icon button" target="_blank">
-                        					<i class="fab fa-facebook-f"></i>  
-                      					</a>
-                      
-                      					<a href="https://www.instagram.com/grupopromesa/?hl=en" class="ui circular icon button" target="_blank">
-                        					<i class="fab fa-instagram"></i>
-                      					</a>
-                    				</div>
-                  				</div>
-
-                  				<div class="column footer-newsletter">
-                    				<h4>Ubicación</h4>
-	      	        				Río Hudson 25, Cuauhtémoc <br>
-                    				Ciudad de México, CDMX 06500<br>
-									México <br>
-									
-                    				<div id="googleMap">
-										<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
-	
-                	    				<div style='overflow:hidden;height:250px;width:250px;'>
-                	    					<div id='gmap_canvas' style='height:250px;width:250px;'>
-											</div>
-                	    					<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
-                	    				</div>
-
-                    					<script type='text/javascript'>
-                    					    function init_map(){
-                    					      	var myOptions = {zoom:10,center:new google.maps.LatLng(19.4261941,-99.17486159999999),mapTypeId: google.maps.MapTypeId.ROADMAP};
-                    					      	var map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
-                    					    	var marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(19.4261941,-99.17486159999999)});
-                    					    	var infowindow = new google.maps.InfoWindow({content:'<strong>Grupo Promesa</strong><br>Río Hudson 25, Cuauhtémoc<br>'});
-                    					      	google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);
-                    					    }
-                    					    google.maps.event.addDomListener(window, 'load', init_map);
-                    					  </script>
-                    					</div><!-- MAP -->											
-                    				</div>
-
-	      	          				<script async defer
-	      	          				  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ3-jELLTX7sMp7kyusDedjN9hGxcVq4g&callback=initMap">
-	      	          				</script>
-                  				</div>
-                			</div>
-              			</div>
-
-              			<div class="row">
-                			<div class="ui one column stackable center aligned page grid">
-                  				<div class="column twelve wide">
-                    				<div class="copyright">
-                      					&copy; Copyright <strong>Grupo Promesa</strong>. Todos los derechos reservados
-                  					</div>
-				
-				          		<div class="credits">
-
-                  				</div>
-                			</div>
-              			</div>
-            		</div>
-          		</div>
-        	</footer>
+								<div class="row">
+                					<div class="ui one column stackable center aligned page grid">
+                			  			<div class="column twelve wide">
+                			    			<div class="copyright">
+                			      				&copy; Copyright <strong>Grupo Promesa</strong>. Todos los derechos reservados
+                			  				</div>
+                			  			</div>
+                					</div>
+              					</div>
+              				</div>
+						</div>
+					</div>
+				</section>
+          	</div>
 		</div>
 	</div>
 
