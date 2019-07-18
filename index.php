@@ -565,24 +565,25 @@
 	      	          Río Hudson 25, Cuauhtémoc <br>
                     Ciudad de México, CDMX 06500<br>
                     México <br>
+                    
                     <div id="googleMap">
-                      <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
-                      
-                      <div style='overflow:hidden;height:200px;width:400px;'>
-                        <div id='gmap_canvas' style='height:200px;width:400px;'></div>
-                      
-                        <style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
-                      </div>
-                      
+										  <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
+
+                	    <div style='overflow:hidden;height:250px;width:250px;'>
+                	    	<div id='gmap_canvas' style='height:250px;width:250px;'>
+                        </div>
+                	      <style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
+                	    </div>
                       <script type='text/javascript'>
                         function init_map(){
-                          var myOptions = {zoom:10,center:new google.maps.LatLng(19.4261941,-99.17486159999999),mapTypeId: google.maps.MapTypeId.ROADMAP};
-                          var map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
-                          var marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(19.4261941,-99.17486159999999)});
-                          var infowindow = new google.maps.InfoWindow({content:'<strong>Grupo Promesa</strong><br>Río Hudson 25, Cuauhtémoc<br>'});
-                          
-                          google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
-                        </script>
+                          	var myOptions = {zoom:10,center:new google.maps.LatLng(19.4261941,-99.17486159999999),mapTypeId: google.maps.MapTypeId.ROADMAP};
+                          	var map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
+                        	var marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(19.4261941,-99.17486159999999)});
+                        	var infowindow = new google.maps.InfoWindow({content:'<strong>Grupo Promesa</strong><br>Río Hudson 25, Cuauhtémoc<br>'});
+                          	google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);
+                        }
+                        google.maps.event.addDomListener(window, 'load', init_map);
+                      </script>
                     </div><!-- MAP -->
                   </div>
                 </div>
