@@ -43,13 +43,13 @@ include "php/functions.php";
 
 					<a href="index.php" class="item">INICIO</a>
 					<a href="aboutUs.php" class="item">SOBRE NOSOTROS</a>
-					<a href="gallery.php" id="active" class="item">GALERÍA</a>
-					<div class="ui dropdown item">NUESTROS PROGRAMAS
+					<a href="gallery.php" class="item">GALERÍA</a>
+					<div id="active" class="ui dropdown item">NUESTROS PROGRAMAS
 					  <i class="dropdown icon"></i>
 					  <div class="menu ui transition hidden">
 						<a href="escuelaPromesa.php" class="item">Escuela</a>
 						<a href="empresaPromesa.php" class="item">Empresa</a>
-						<a href="universidadPromesa.php" class="item">Universidad</a>
+						<a href="universidadPromesa.php" class="active item">Universidad</a>
 						<a href="viviendaPromesa.php" class="item">Vivienda</a>
 						<a href="promesaIAP.php" class="item">Promesa I.A.P</a>
 					  </div>
@@ -75,15 +75,15 @@ include "php/functions.php";
 				<div class="ui borderless vertical fixed menu">
 					<a href="index.php" class="item">INICIO</a>
 					<a href="aboutUs.php" class="item">SOBRE NOSOTROS</a>
-					<a href="gallery.php" id="active" class="item">GALERÍA</a>
+					<a href="gallery.php" class="item">GALERÍA</a>
 
 					<div class="ui item">
-						<div class="text">NUESTROS PROGRAMAS</div>
+						<div id="active" class="text">NUESTROS PROGRAMAS</div>
 
 						<div class="menu">
 						  <a href="escuelaPromesa.php" class="item">Escuela</a>
 						  <a href="empresaPromesa.php" class="item">Empresa</a>
-						  <a href="universidadPromesa.php" class="item">Universidad</a>
+						  <a href="universidadPromesa.php" class="active item">Universidad</a>
 						  <a href="viviendaPromesa.php" class="item">Vivienda</a>
 						  <a href="promesaIAP.php" class="item">Promesa I.A.P</a>
 						</div>
