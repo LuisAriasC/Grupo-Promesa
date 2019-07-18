@@ -123,19 +123,19 @@
 
             			  	<div class="row">
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.1s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.01s">
 									<img src="img/EmpresaPromesa/1.png" alt="" class="img-fluid">
             			    	</div>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.2s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.02s">
 									<img src="img/EmpresaPromesa/2.png" alt="" class="img-fluid">
             			    	</div>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.3s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.03s">
 									<img src="img/EmpresaPromesa/3.png" alt="" class="img-fluid">
             			    	</div>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.4s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.04s">
 									<img src="img/EmpresaPromesa/4.png" alt="" class="img-fluid">
 								</div>
             			  	</div>
@@ -157,13 +157,13 @@
 						<br>
 						<div class="ui stackable three column grid">
 							<div class="row">
-							  	<div class="wow fadeInUp column" data-wow-delay="0.1s">
+							  	<div class="wow fadeInUp column" data-wow-delay="0.03s">
 								  	<img src="img/ods/1.png" alt="">
 								</div>
-							  	<div class="wow fadeInUp column" data-wow-delay="0.2s">
+							  	<div class="wow fadeInUp column" data-wow-delay="0.06s">
 									<img src="img/ods/2.png" alt="">
 								</div>
-							  	<div class="wow fadeInUp column" data-wow-delay="0.3s">
+							  	<div class="wow fadeInUp column" data-wow-delay="0.1s">
 									<img src="img/ods/3.png" alt="">
 								</div>
 							</div>
@@ -188,28 +188,28 @@
 							<div class="ui stackable four column grid">
 								<div class="row">
 
-								  	<div class="wow fadeInUp column" data-wow-delay="0.1s">
+								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  	<i class="fas fa-certificate fa-5x"></i>
                     					<br>
 										<p>	Obtener registros necesarios para certificaciones (ISO 14001, ESR, GRI, entre otras).</p>
                     					<br>
 									</div>
 
-								  	<div class="wow fadeInUp column" data-wow-delay="0.2s">
+								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  	<i class="fas fa-gavel fa-5x"></i>
                     					<br>
 										<p> Cumplir la legislación ambiental vigente</p>	
 										<br>
 									</div>
 
-								  	<div class="wow fadeInUp column" data-wow-delay="0.3s">
+								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
 										<i class="fas fa-chart-line fa-5x"></i>
                     					<br>
 										<p>	Incrementar la tasa de reciclaje para mitigar el impacto ambiental negativo</p>	
 										<br>
 									</div>
 
-									<div class="wow fadeInUp column" data-wow-delay="0.4s">
+									<div class="wow fadeIn column" data-wow-delay="0.1s">
 										<i class="fas fa-file-alt fa-5x"></i>
                     					<br>
 										<p>	Contar con registros y reportes de impacto ambiental</p>	
@@ -221,28 +221,28 @@
 							<div class="ui stackable four column grid">
 								<div class="row">
 
-								  	<div class="wow fadeInUp column" data-wow-delay="0.4s">
+								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  	<i class="fas fa-dollar-sign fa-5x"></i>
                     					<br>
 										<p>	Valorizar los residuos para generar ingresos adicionales</p>	
 										<br>
 									</div>
 
-								  	<div class="wow fadeInUp column" data-wow-delay="0.3s">
+								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  	<i class="fas fa-leaf fa-5x"></i>
                     					<br>
 										<p>	Implementar la cultura ambiental empresarial a través de una mejora continua</p>	
 										<br>
 									</div>
 
-								  	<div class="wow fadeInUp column" data-wow-delay="0.2s">
+								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  	<i class="fas fa-dot-circle fa-5x"></i>
                     					<br>
 										<p>	Posicionar a la marca como impulsora de la responsabilidadsocial y ambiental</p>	
 										<br>
 									</div>
 
-									<div class="wow fadeInUp column" data-wow-delay="0.1s">
+									<div class="wow fadeIn column" data-wow-delay="0.1s">
 										<i class="fas fa-globe fa-5x"></i>
                     					<br>
 										<p>	Ser parte de una comunidad de Empresas Líderes Ambientales</p>	
@@ -273,7 +273,7 @@
 				TESTIMONIALES
 	        ============================-->
 			<div class="wow fadeIn row">
-				<section id="testimonials" class="section-bg wow fadeInUp section">
+				<section id="testimonials" class="section-bg wow fadeIn section">
  					<div class="ui container">
 						<h3>Testimoniales</h3>
  					</div>
@@ -282,7 +282,7 @@
 			<div class="row">
 				<div id="customers-testimonials" class="row owl-carousel">
     				<!--TESTIMONIAL 1 -->
-    				<div class="wow fadeInUp column item">
+    				<div class="wow fadeIn column item">
     				  	<div class="shadow-effect">
 					  		<img id="testimonial-img" src="img/aliados/empresas/3.png" alt="">
 							<p>
@@ -299,7 +299,7 @@
 					<!--END OF TESTIMONIAL 1 -->
 
     				<!--TESTIMONIAL 2 -->
-    				<div class="wow fadeInUp column item">
+    				<div class="wow fadeIn column item">
     				  	<div class="shadow-effect">
 					  		<img id="testimonial-img" src="img/aliados/empresas/9.png" class="testimonial-img" alt="">
 							<p>
@@ -316,7 +316,7 @@
 					<!--END OF TESTIMONIAL 2 -->
 
     				<!--TESTIMONIAL 3 -->
-    				<div class="wow fadeInUp column item">
+    				<div class="wow fadeIn column item">
     				  	<div class="shadow-effect">
 							<img id="testimonial-img" src="img/aliados/empresas/13.png" class="testimonial-img" alt="">
 							<p>	

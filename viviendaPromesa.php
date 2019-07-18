@@ -105,14 +105,14 @@
 
             			    	<div class="four wide column"></div>
             			    	<div class="eight wide column">
-									<img id="t-images" src="img/ComunidadPromesa/vivienda/1.png" alt="" class="wow fadeInUp fluid image">
+									<img id="t-images" src="img/ComunidadPromesa/vivienda/1.png" alt="" class="wow fadeIn fluid image">
             			    	</div>
             			    	<div class="four wide column"></div>
 							</div> 
 						</div>
 						<br>
 
-						<div class="wow fadeInUp">
+						<div class="wow fadeIn">
 							<h3> 
 								PROGRAMA
 							</h3>
@@ -128,7 +128,7 @@
 						<div class="ui stackable three column grid">
             			  	<div class="row">
             			    	<div class="sixteen wide column">
-									<img id="t-images" src="img/ComunidadPromesa/vivienda/2.jpg" alt="" class="wow fadeInUp fluid image" data-wow-delay="0.3s">
+									<img id="t-images" src="img/ComunidadPromesa/vivienda/2.jpg" alt="" class="wow fadeIn fluid image">
             			    	</div>
 							</div> 
 						</div>
@@ -142,23 +142,23 @@
 						<div class="ui container">
 							<div class="ui stackable five column grid">
 								<div class="row">
-				  					<div class="wow fadeInUp column" data-wow-delay="0.1s">
+				  					<div class="wow fadeIn column">
 										<i class="fas fa-recycle fa-3x"></i>
 										<p><br>Comienza con un programa de reciclaje</p>
 									</div>
-  									<div class="wow fadeInUp column" data-wow-delay="0.2s">
+  									<div class="wow fadeIn column">
 									  	<i class="fas fa-search-dollar fa-3x"></i>
     			        				<p><br>Genera ingresos con tus residuos reciclables</p>
 									</div>
-  									<div class="wow fadeInUp column" data-wow-delay="0.3s">
+  									<div class="wow fadeIn column">
 									  	<i class="fas fa-chart-pie fa-3x"></i>
     			        				<p><br>Obtén bitácoras y estadísticas de tus residuos recolectados</p>
 									</div>
-  									<div class="wow fadeInUp column" data-wow-delay="0.4s">
+  									<div class="wow fadeIn column">
 									  	<i class="fas fa-check-double fa-3x"></i>
 										<p><br>Cumple con la norma ambiental de separación de la CDMX </p>
 									</div>
-									<div class="wow fadeInUp column" data-wow-delay="0.5s">
+									<div class="wow fadeIn column">
 										<i class="fas fa-leaf fa-3x"></i>
 										<p><br>Disminuye tu impacto ambiental</p>
 									</div>
@@ -166,7 +166,7 @@
 							</div>
 						</div>
 
-						<div class="wow fadeInUp ui one column stackable center aligned page grid" data-wow-delay="0.5s">
+						<div class="wow fadeInUp ui one column stackable center aligned page grid">
             	          <div class="column twelve wide">
 							<a href="sumate.php">
             	                <div class="ui vertical animated black button" tabindex="0">

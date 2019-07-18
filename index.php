@@ -135,13 +135,13 @@
                 <h3>NUESTRO IMPACTO AMBIENTAL</h3>
                 <div class="ui stackable four column grid">
                   <div class="row">
-                    <div class="wow fadeInUp column" data-wow-delay="0.1s">
+                    <div class="wow fadeInUp column">
                       <i class="fa fa-recycle fa-5x"></i>
                       <p id="number-counter" class="counter">2,481,408</p>
                       <p>kg de residuos sólidos reciclados</p>
                     </div>
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.2s">
+                    <div class="wow fadeInUp column">
                       <i class="fa fa-tree fa-5x"></i>
                       <p id="number-counter" class="counter">37,546</p>
                       <p>
@@ -149,7 +149,7 @@
                       </p>
                     </div>
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.3s">
+                    <div class="wow fadeInUp column">
                       <i class="fa fa-tint fa-5x"></i>
                       <p id="number-counter" class="counter">67</p>
                       <p>
@@ -158,7 +158,7 @@
                       </p>
                     </div>
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.4s">
+                    <div class="wow fadeInUp column">
                       <i class="fa fa-bolt fa-5x"></i>
                       <p id="number-counter" class="counter">16</p>
                       <p>
@@ -184,7 +184,7 @@
                 <div class="ui stackable three column grid">
                   <div class="row">
 
-                  <div class="wow fadeInUp column" data-wow-delay="0.3s">
+                  <div class="wow fadeIn column">
                       <i class="fa fa-archive fa-5x"></i>
                       <p id="white-number-counter" class="counter">200</p>
                       <p>
@@ -194,7 +194,7 @@
                       </p>
                     </div>
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.2s">
+                    <div class="wow fadeIn column">
                       <i class="fas fa-coins fa-5x"></i>
                       <p id="white-number-counter" class="counter">800</p>
                       <p>
@@ -204,7 +204,7 @@
                       </p>
                     </div>
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.1s">
+                    <div class="wow fadeIn column">
                       <i class="fas fa-igloo fa-5x"></i>
                       <p id="white-number-counter" class="counter">31</p>
                       <p>
@@ -233,25 +233,25 @@
                 <div class="ui stackable four column grid">
                   <div class="row">
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.1s">
+                    <div class="wow fadeInUp column">
                       <i class="fas fa-school fa-5x"></i>
                       <p id="number-counter" class="counter">229</p>
                       <h2 class="title">ESCUELAS</h2>
                     </div>
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.2s">
+                    <div class="wow fadeInUp column">
                       <i class="fas fa-university fa-5x"></i>
                       <p id="number-counter" class="counter">2</p>
                       <h2 class="title">UNIVERSIDADES</h2>
                     </div>
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.3s">
+                    <div class="wow fadeInUp column">
                       <i class="fas fa-home fa-5x"></i>
                       <p id="number-counter" class="counter">6</p>
                       <h2 class="title">VIVIENDAS</h2>
                     </div>
 
-                    <div class="wow fadeInUp column" data-wow-delay="0.4s">
+                    <div class="wow fadeInUp column">
                       <i class="fas fa-industry fa-5x"></i>
                       <p id="number-counter" class="counter">33</p>
                       <h2 class="title">EMPRESAS</h2>
@@ -273,7 +273,7 @@
                   <h3>PROGRAMAS</h3>
 
                   <div class="ui two stackable cards">
-                    <div class="wow fadeInUp card" data-wow-delay="0.25s">
+                    <div class="wow fadeIn card">
                       <div class="image">
                         <img src="img/QuienesSomos/1.jpg">
                       </div>
@@ -300,7 +300,7 @@
                       </div>
                     </div>
 
-                    <div class="wow fadeInUp card" data-wow-delay="0.5s">
+                    <div class="wow fadeIn card">
                       <div class="image">
                         <img src="img/QuienesSomos/2.jpg">
                       </div>
@@ -328,7 +328,7 @@
                       </div>
                     </div>
 
-                    <div class="wow fadeInUp card" data-wow-delay="0.5s">
+                    <div class="wow fadeIn card">
                       <div class="image">
                         <img src="img/QuienesSomos/4.jpg">
                       </div>
@@ -355,7 +355,7 @@
                       </div>
                     </div>
 
-                    <div class="wow fadeInUp card" data-wow-delay="0.25s">
+                    <div class="wow fadeIn card">
                       <div class="image">
                         <img src="img/QuienesSomos/3.jpg">
                       </div>
@@ -381,7 +381,7 @@
                       </div>
                     </div>
 
-                    <div class="wow fadeInUp card" data-wow-delay="0.25s">
+                    <div class="wow fadeIn card">
                       <div class="image">
                         <img src="img/voluntario_promesa.png">
                       </div>
@@ -407,7 +407,7 @@
                       </div>
                     </div>
 
-                    <div class="wow fadeInUp card" data-wow-delay="0.5s">
+                    <div class="wow fadeIn card">
                       <div class="image">
                         <img src="img/voluntario_promesa.png">
                       </div>

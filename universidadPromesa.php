@@ -1,4 +1,6 @@
-<?php include 'php/functions.php';?>
+<?php
+include "php/functions.php";
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -10,17 +12,16 @@
 	<meta content="" name="keywords">
 	<meta name="mobile-web-app-capable" content="yes">
 
-	<!-- SEMANTIC UI CSS FILES -->
+	<!-- SEMANTIC UI CSS Files -->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet" />
-
 	<!-- GOOGLE FONTS -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
 	<!-- FONT AWESOME -->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" rel="stylesheet" />
-	<!-- ANIMATE CSS FILES -->
+	<!-- ANIMATE CSS Files -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
-
-	<!-- MAIN CSS FILES -->
+    
+	<!-- MAIN CSS Files -->
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 
 </head>
@@ -31,7 +32,7 @@
 
 		<!--==========================
 	      MENÚ FLEX RESPONSIVO CON SEMANTIC UI
-		============================-->
+	    ============================-->
 		<div class="ui grid">
 
 			<div class="wow fadeIn computer only row m2">
@@ -42,14 +43,13 @@
 
 					<a href="index.php" class="item">INICIO</a>
 					<a href="aboutUs.php" class="item">SOBRE NOSOTROS</a>
-					<a href="gallery.php" class="item">GALERÍA</a>
-					<div class="ui dropdown item">
-						<div id="active" class="text">NUESTROS PROGRAMAS</div>
+					<a href="gallery.php" id="active" class="item">GALERÍA</a>
+					<div class="ui dropdown item">NUESTROS PROGRAMAS
 					  <i class="dropdown icon"></i>
 					  <div class="menu ui transition hidden">
 						<a href="escuelaPromesa.php" class="item">Escuela</a>
 						<a href="empresaPromesa.php" class="item">Empresa</a>
-						<a href="universidadPromesa.php" class="active item">Universidad</a>
+						<a href="universidadPromesa.php" class="item">Universidad</a>
 						<a href="viviendaPromesa.php" class="item">Vivienda</a>
 						<a href="promesaIAP.php" class="item">Promesa I.A.P</a>
 					  </div>
@@ -75,15 +75,15 @@
 				<div class="ui borderless vertical fixed menu">
 					<a href="index.php" class="item">INICIO</a>
 					<a href="aboutUs.php" class="item">SOBRE NOSOTROS</a>
-					<a href="gallery.php" class="item">GALERÍA</a>
+					<a href="gallery.php" id="active" class="item">GALERÍA</a>
 
 					<div class="ui item">
-						<div id="active" class="text">NUESTROS PROGRAMAS</div>
+						<div class="text">NUESTROS PROGRAMAS</div>
 
 						<div class="menu">
 						  <a href="escuelaPromesa.php" class="item">Escuela</a>
 						  <a href="empresaPromesa.php" class="item">Empresa</a>
-						  <a href="universidadPromesa.php" class="active item">Universidad</a>
+						  <a href="universidadPromesa.php" class="item">Universidad</a>
 						  <a href="viviendaPromesa.php" class="item">Vivienda</a>
 						  <a href="promesaIAP.php" class="item">Promesa I.A.P</a>
 						</div>
@@ -94,9 +94,9 @@
 			</div>
 
 			<!--==========================
-	          IMAGE INTRO
-	        ============================-->
-			<div class="wow fadeIn row menu-height">
+				GALERÍA
+          	============================-->
+          	<div class="wow fadeIn row menu-height">
 				<section id="pintro">
     			    <div class="intro-container">
     			        <div class="carousel-content">
@@ -104,12 +104,12 @@
     			        </div>
     			    </div>
     			</section>
-			</div>
-
+          	</div>
+			  
 			<!--==========================
-				Universidad Promesa
-			============================-->
-			<div class="wow fadeIn row">
+
+          	============================-->
+			<div class="wow fadeIn row menu-height">
 				<section class="section">
 				    <div class="ui container">
 				    	<br><br>
@@ -118,7 +118,7 @@
 
 						<div class="row counters">
     			    	    <div class="col-lg-12 text-center" id="ComunidadPromesaTitulo">Lo que hacemos se desarrolla en 5 etapas</div>
-    			    	        <div class="text-center wow fadeInUp">
+    			    	        <div class="text-center wow fadeIn">
     			    	            <img src="img/empresaPromesa.png" alt="" class="img-fluid">
     			    	        </div>
 							</div>
@@ -128,17 +128,17 @@
 			</div>
 
 			<!--==========================
-				Que ofrecemos
-			============================-->
-			<div class="wow fadeIn row">
-				<section id="green-section"  class="section">
+
+          	============================-->
+			<div class="wow fadeIn row menu-height">
+			  	<section id="green-section"  class="section">
     			    <div class="ui container">
 						<h3>¿QUÉ OFRECEMOS?</h3>
 						<br>
 
 						<div class="ui stackable two column grid">
-							<div class="wow fadeIn row" data-wow-delay="0.3s">
-								<div class="wow fadeInUp column" data-wow-delay="0.2s">
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
 									<i class="fas fa-university fa-5x"></i>
 									<br>
 									<p>	
@@ -148,7 +148,7 @@
 									<br>
 								</div>
 
-								<div class="wow fadeInUp column" data-wow-delay="0.4s">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  <i class="fas fa-recycle fa-5x"></i>
 									<br>
 									<p>
@@ -159,8 +159,8 @@
 								</div>
 							</div>
 
-							<div class="wow fadeIn row" data-wow-delay="0.3s">
-								<div class="wow fadeInUp column" data-wow-delay="0.4s">
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
 									<i class="fas fa-chalkboard-teacher fa-5x"></i>
 									<br>
 									<p>
@@ -169,7 +169,7 @@
 									<br>
 								</div>
 								
-								<div class="wow fadeInUp column" data-wow-delay="0.2s">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
 									<i class="fas fa-hands-helping fa-5x"></i>
 									<br>
 									<p>
@@ -179,8 +179,8 @@
 								</div>
 							</div>
 							
-							<div class="wow fadeIn row" data-wow-delay="0.3s">
-								<div class="wow fadeInUp column" data-wow-delay="0.2s">
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  <i class="fas fa-check-double fa-5x"></i>
 									<br>
 									<p>	
@@ -190,7 +190,7 @@
 									<br>
 								</div>
 								
-								<div class="wow fadeInUp column" data-wow-delay="0.4s">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  <i class="fas fa-users fa-5x"></i>
 									<br>
 									<p>
@@ -200,8 +200,8 @@
 								</div>
 							</div>
 
-							<div class="wow fadeIn row" data-wow-delay="0.3s">
-								<div class="wow fadeInUp column" data-wow-delay="0.4s">
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
 									  <i class="fas fa-calendar-check fa-5x"></i>
 									<br>
 									<p>
@@ -210,7 +210,7 @@
 									<br>
 								</div>
 
-								<div class="wpw fadeInUp column" data-wow-delay="0.2s">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
 									<i class="fas fa-file-image fa-5x"></i>
 									<br>
 									<p>
@@ -224,7 +224,7 @@
 					</div>
 					<br>
 
-					<div class="wow fadeInUp ui one column stackable center aligned page grid" data-wow-delay="0.4s">
+					<div class="wow fadeInUp ui one column stackable center aligned page grid" data-wow-delay="0.1s">
             	      	<div class="column twelve wide">
             	          <a href="sumate.php">
             	            <div class="ui vertical animated inverted button" tabindex="0">
@@ -237,20 +237,13 @@
             	      	</div>
 					</div>
 				</section>
-			</div>	
-
-
-			<!--==========================
-
-			============================-->
-			<!--
-			<div class="row">
-
 			</div>
-			-->
-		</div>
+          	<!-- <div class="row">
 
-<!--==========================
+          	</div>  -->
+		</div>
+		
+		<!--==========================
 		FOOTER
 		============================-->
 		<div class="wow fadeIn container">
@@ -320,18 +313,17 @@
 		</div>
 	</div>
 
-	<!-- JQuery 3.4.1-->
-	<script src="js/jquery/jquery-3.4.1.min.js"></script>
-
-	<!-- SEMANTIC UI JS -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <!-- JQuery 3.4.1-->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <!-- SEMANTIC UI JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
 	<!-- WOW JS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 
-
-	<!-- SEMANTIC UI QUERY -->
+    <!-- SEMANTIC UI QUERY -->
 	<script src="js/qwerty/semantic/menu-mandler.js"></script>
-	<!-- WOW QWERTY -->
-	<script src="js/qwerty/wow/wow.js"></script>
+    <!-- WOW QWERTY -->
+    <script src="js/qwerty/wow/wow.js"></script>
+	
 </body>
 </html>

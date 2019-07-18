@@ -137,23 +137,23 @@
 						<div class="ui stackable five column grid">
             			  	<div class="row">
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.1s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.01s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa21.png" alt="" class="img-fluid">
             			    	</div>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.2s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.02s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa22.png" alt="" class="img-fluid">
             			    	</div>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.3s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.03s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa23.png" alt="" class="img-fluid">
             			    	</div>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.4s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.04s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa24.png" alt="" class="img-fluid">
             			    	</div>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.5s">
+            			    	<div class="wow fadeInUp column" data-wow-delay="0.05s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa25.png" alt="" class="img-fluid">
 								</div>
 
@@ -210,7 +210,7 @@
 				</section>
 			</div>
 
-			<div class="wow fadeInUp row">
+			<div class="wow fadeIn row">
 				<div id="customers-testimonials" class="row owl-carousel">
     				<!--TESTIMONIAL 1 -->
     				<div class="column item">
@@ -288,7 +288,7 @@
 			<!--==========================
 				ALIADOS
           	============================-->
-          	<div class="wow fadeInUp row">
+          	<div class="wow fadeIn row">
 			  	<section class="section">
 					<div class="ui container">
 						<h3>ESCUELAS PROMESA</h3>

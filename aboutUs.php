@@ -143,7 +143,7 @@
 					</div>
 				</section>
 			</div>
-			<div class="wow fadeInUp row">
+			<div class="wow fadeIn row">
 				<div class="ui container">
 
 					<div class='row owl-carousel clients-carousel'>
@@ -211,7 +211,7 @@
 						<br>
 						<div class="ui stackable four column grid">
 						<div class="row">
-				  			<div class="wow fadeInUp column" data-wow-delay="0.1s">
+				  			<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Monica_Ingeniera_Ambiental_y_Directora_de_Empresa_Promesa.png">
 								<h2 class="green-text">
 									Mónica
@@ -223,7 +223,7 @@
 								<br>
 							</div>
 
-    			    	    <div class="wow fadeInUp column" data-wow-delay="0.2s">
+    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Teresita_Directora_de_Escuela_Promesa.png">
 								<h2 class="green-text">
 									Teresita
@@ -235,7 +235,7 @@
 								<br>
 							</div>
 
-    			    	    <div class="wow fadeInUp column" data-wow-delay="0.3s">
+    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Monica_Recursos_Humanos.png">
 								<h2 class="green-text">
 									Monica
@@ -247,7 +247,7 @@
 								<br>
 							</div>
 
-							<div class="wow fadeInUp column" data-wow-delay="0.4s">
+							<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Nallely_Coordinadora_de_Promesa_IAP.png"> 
 								<h2 class="green-text">
 									Nallely
@@ -261,7 +261,7 @@
     					</div>
 
 						<div class="row">
-				  			<div class="wow fadeInUp column" data-wow-delay="0.4s">
+				  			<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Ximena_Coordinadora_de_Empresa_Promesa.png">
 								<h2 class="green-text">
 									Ximena
@@ -273,7 +273,7 @@
 								<br>
 							</div>
 
-    			    	    <div class="wow fadeInUp column" data-wow-delay="0.3s">
+    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Sergio_Coordinador_de_Proyectos_Escolares.png">
 								<h2 class="green-text">
 									Sergio
@@ -285,7 +285,7 @@
 								<br>
 							</div>
 
-    			    	    <div class="wow fadeInUp column" data-wow-delay="0.2s">
+    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Larissa_Coordinadora_de_Eventos_Especiales.png">
 								<h2 class="green-text">
 									Larissa
@@ -297,7 +297,7 @@
 								<br>
 							</div>
 
-							<div class="wow fadeInUp column" data-wow-delay="0.1s">
+							<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Fernando_Coordinador_Empresa_Promesa.png">
 								<h2 class="green-text">
 									Fernando
@@ -312,7 +312,7 @@
     					</div>
 
 						<div class="row">
-				  			<div class="wow fadeInUp column" data-wow-delay="0.1s">
+				  			<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Aldo_Educador.png">
 								<h2 class="green-text">
 									Aldo
@@ -324,7 +324,7 @@
 								<br>
 							</div>
 
-    			    	    <div class="wow fadeInUp column" data-wow-delay="0.2s">
+    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Romana_Educadora.png">
 								<h2 class="green-text">
 									Romana
@@ -336,7 +336,7 @@
 								<br>
 							</div>
 
-    			    	    <div class="wow fadeInUp column" data-wow-delay="0.3s">
+    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Jair_Contenido_Ambiental.png">
 								<h2 class="green-text">
 									Jair
@@ -348,7 +348,7 @@
 								<br>
 							</div>
 
-							<div class="wow fadeInUp column" data-wow-delay="0.4s">
+							<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    	        <img class="ui small circular image" src="img/employees/Adriana_Voluntaria.png">
 								<h2 class="green-text">
 									Adriana
