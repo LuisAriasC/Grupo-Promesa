@@ -60,7 +60,7 @@
 					  </div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 					<!-- <div class="right menu"></div> -->
 				</div>
 			</div>
@@ -94,7 +94,7 @@
 						</div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 				</div>
 			</div>
 
@@ -149,49 +149,49 @@
 					<div class='row owl-carousel clients-carousel'>
     				  	<div class='column item'>
     				  		<div class='shadow-effect'>
-								<img src="img/premios/1.png" alt="">
+								<img class="ui small centered image" src="img/premios/1.png" alt="">
 								<div class="price-content">
-									<h2>
+									<h4>
 										Certificdo Lationoamérica Verde <br>
 										2017
-									</h2>
+									</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class='column item'>
     				  		<div class='shadow-effect'>
-								<img src="img/premios/2.png" alt="">
+								<img class="ui small centered image" src="img/premios/2.png" alt="">
 								<div class="price-content">
-									<h2>
+									<h4>
 										Fellow de Agora Partnership <br>
 										2016
-									</h2>
+									</h4>
 								</div>
 							</div>
 						</div>
 						
 						<div class='column item'>
     				  		<div class='shadow-effect'>
-								<img src="img/premios/3.png" alt="">
+								<img class="ui small centered image" src="img/premios/3.png" alt="">
 								<div class="price-content">
-									<h2>
+									<h4>
 										Fellow de Ashoka <br>
 										Centroamérica y el Caribe <br>
 										2018
-									</h2>
+									</h4>
 								</div>
 							</div>
 						</div>
 
 						<div class='column item'>
     				  		<div class='shadow-effect'>
-								<img src="img/premios/4.png" alt="">
+								<img class="ui small centered image" src="img/premios/4.png" alt="">
 								<div class="price-content">
-									<h2>
+									<h4>
 										Reconocimiento Unreasonable <br>
 										2016
-									</h2>  
+									</h4>  
 								</div>
 							</div>
     					</div>
@@ -210,168 +210,233 @@
 						<br>
 						<br>
 						<div class="ui stackable four column grid">
-						<div class="row">
-				  			<div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Monica_Ingeniera_Ambiental_y_Directora_de_Empresa_Promesa.png">
-								<h2 class="green-text">
-									Mónica
-								</h2>
-								<p>
-									Directora Empresa Promesa
-								</p>
-								<br>
-								<br>
+							<div class="row">
+
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Julio_Fundador_y_Director_General.jpg">
+									<h2 class="green-text">
+										Julio.
+									</h2>
+									<p>
+										Fundador y director general.
+									</p>
+									<br>
+									<br>
+								</div>
+
+				  				<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Monica_Ingeniera_Ambiental_y_Directora_de_Empresa_Promesa.jpg">
+									<h2 class="green-text">
+										Mónica.
+									</h2>
+									<p>
+										Directora Empresa Promesa.
+									</p>
+									<br>
+									<br>
+								</div>
+
+    			    		    <div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Teresita_Directora_de_Escuela_Promesa.jpg">
+									<h2 class="green-text">
+										Teresita.
+									</h2>
+									<p>
+										Directora Escuela Promesa.
+									</p>
+									<br>
+									<br>
+								</div>
+
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Monica_Recursos_Humanos.jpg">
+									<h2 class="green-text">
+										Mónica.
+									</h2>
+									<p>
+										Recursos Humanos.
+									</p>
+									<br>
+									<br>
+								</div>
+    						</div>
+
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Nallely_Coordinadora_de_Promesa_IAP.jpg"> 
+									<h2 class="green-text">
+										Nallely.
+									</h2>
+									<p>
+										Coordinadora de Promesa IAP.
+									</p>
+									<br>
+									<br>
+								</div>
+
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Ximena_Coordinadora_de_Empresa_Promesa.jpg">
+									<h2 class="green-text">
+										Ximena.
+									</h2>
+									<p>
+										Coordinadora de Empresa Promesa.
+									</p>
+									<br>
+									<br>
+								</div>
+
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Sergio_Coordinador_de_Proyectos_Escolares.jpg">
+									<h2 class="green-text">
+										Sergio.
+									</h2>
+									<p>
+										Coordinador de Proyectos Escolares.
+									</p>
+									<br>
+									<br>
+								</div>
+
+    			    		    <div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Larissa_Coordinadora_de_Eventos_Especiales.jpg">
+									<h2 class="green-text">
+										Larissa.
+									</h2>
+									<p>
+										Coordinadora de Eventos Especiales.
+									</p>
+									<br>
+									<br>
+								</div>
+    						</div>
+
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Fernando_Coordinador_Empresa_Promesa.jpg">
+									<h2 class="green-text">
+										Fernando.
+									</h2>
+									<p>
+										Coordinador Empresa Promesa.
+									</p>
+									<br>
+									<br>
+								</div>
+
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Laura_Coordinadora_de_Proyectos_Escolares.jpg">
+									<h2 class="green-text">
+										Laura.
+									</h2>
+									<p>
+										Coordinadora de Proyectos Escolares.
+									</p>
+									<br>
+									<br>
+								</div>
+
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Antonio_Logística_y_Operaciones.jpg">
+									<h2 class="green-text">
+										Antonio.
+									</h2>
+									<p>
+										Logística y operaciones.
+									</p>
+									<br>
+									<br>
+								</div>
+
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Paola_Marketing_y_Comunicación.jpg">
+									<h2 class="green-text">
+										Paola.
+									</h2>
+									<p>
+										Marketing y comunicación.
+									</p>
+									<br>
+									<br>
+								</div>								
+    						</div>
+
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Paula_Diseño_y_Producción.jpg">
+									<h2 class="green-text">
+										Paula.
+									</h2>
+									<p>
+										Diseño y Producción.
+									</p>
+									<br>
+									<br>
+								</div>
+
+				  				<div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Aldo_Educador.jpg">
+									<h2 class="green-text">
+										Aldo.
+									</h2>
+									<p>
+										Educador.
+									</p>
+									<br>
+									<br>
+								</div>
+
+    			    		    <div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Romana_Educadora.jpg">
+									<h2 class="green-text">
+										Romana.
+									</h2>
+									<p>
+										Educadora.
+									</p>
+									<br>
+									<br>
+								</div>
+
+    			    		    <div class="wow fadeIn column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Jair_Contenido_Ambiental.jpg">
+									<h2 class="green-text">
+										Jair.
+									</h2>
+									<p>
+										Contenido Ambiental.
+									</p>
+									<br>
+									<br>
+								</div>
 							</div>
 
-    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Teresita_Directora_de_Escuela_Promesa.png">
-								<h2 class="green-text">
-									Teresita
-								</h2>
-								<p>
-									Directora Escuela Promesa
-								</p>
-								<br>
-								<br>
-							</div>
-
-    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Monica_Recursos_Humanos.png">
-								<h2 class="green-text">
-									Monica
-								</h2>
-								<p>
-									Recursos Humanos
-								</p>
-								<br>
-								<br>
-							</div>
-
-							<div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Nallely_Coordinadora_de_Promesa_IAP.png"> 
-								<h2 class="green-text">
-									Nallely
-								</h2>
-								<p>
-									Coordinadora de Promesa IAP
-								</p>
-								<br>
-								<br>
-							</div>
-    					</div>
-
-						<div class="row">
-				  			<div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Ximena_Coordinadora_de_Empresa_Promesa.png">
-								<h2 class="green-text">
-									Ximena
-								</h2>
-								<p>
-									Coordinadora de Empresa Promesa
-								</p>
-								<br>
-								<br>
-							</div>
-
-    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Sergio_Coordinador_de_Proyectos_Escolares.png">
-								<h2 class="green-text">
-									Sergio
-								</h2>
-								<p>
-									Coordinador de Proyectos Escolares
-								</p>
-								<br>
-								<br>
-							</div>
-
-    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Larissa_Coordinadora_de_Eventos_Especiales.png">
-								<h2 class="green-text">
-									Larissa
-								</h2>
-								<p>
-									Coordinadora de Eventos Especiales
-								</p>
-								<br>
-								<br>
-							</div>
-
-							<div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Fernando_Coordinador_Empresa_Promesa.png">
-								<h2 class="green-text">
-									Fernando
-								</h2>
-								<p>
-									Coordinador Empresa Promesa
-								</p>
-								<br>
-								<br>
-							</div>
-
-    					</div>
-
-						<div class="row">
-				  			<div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Aldo_Educador.png">
-								<h2 class="green-text">
-									Aldo
-								</h2>
-								<p>
-									Educador
-								</p>
-								<br>
-								<br>
-							</div>
-
-    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Romana_Educadora.png">
-								<h2 class="green-text">
-									Romana
-								</h2>
-								<p>
-									Educadora
-								</p>
-								<br>
-								<br>
-							</div>
-
-    			    	    <div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Jair_Contenido_Ambiental.png">
-								<h2 class="green-text">
-									Jair
-								</h2>
-								<p>
-									Contenido Ambiental	
-								</p>
-								<br>
-								<br>
-							</div>
-
-							<div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    	        <img class="ui small circular image" src="img/employees/Adriana_Voluntaria.png">
-								<h2 class="green-text">
-									Adriana
-								</h2>
-								<p>
-									Voluntaria
-								</p>
-								<br>
-								<br>
+							<div class="row">
+								<div class="ui wow fadeIn four wide column" data-wow-delay="0.1s">
+    			    		        <img class="ui small centered circular image" src="img/employees/Adriana_Voluntaria.jpg">
+									<h2 class="green-text">
+										Adriana.
+									</h2>
+									<p>
+										Voluntariado.
+									</p>
+									<br>
+									<br>
+								</div>
 							</div>
 						</div>
-					</div>
-					<div class="wow fadeInUp ui one column stackable center aligned page grid">
-            	      <div class="column twelve wide">
-						<a href="">
-            	            <div id="my-green" class="ui vertical animated button" tabindex="0">
-            	              <div class="visible content">BOLSA DE TRABAJO</div>
-            	              <div class="hidden content">
-							  <i class="fas fa-briefcase"></i>
-            	              </div>
-            	            </div>
-            	          </a>
-            	      </div>
+
+						<div class="wow fadeInUp ui one column stackable center aligned page grid">
+            	    	  <div class="column twelve wide">
+							<a href="">
+            	    	        <div id="my-green" class="ui vertical animated button" tabindex="0">
+            	    	          <div class="visible content">BOLSA DE TRABAJO</div>
+            	    	          <div class="hidden content">
+								  <i class="fas fa-briefcase"></i>
+            	    	          </div>
+            	    	        </div>
+            	    	      </a>
+            	      	</div>
 					</div>
 					<br>
     			</section>

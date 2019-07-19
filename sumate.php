@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<title>Grupo Promesa | ÚNETE</title>
+	<title>Grupo Promesa | SÚMATE</title>
 
 	<meta content="" name="description">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -55,7 +55,7 @@
 					  	</div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a id="active" href="sumate.php" class="item">ÚNETE</a>
+					<a id="active" href="sumate.php" class="item">SÚMATE</a>
 					<!-- <div class="right menu"></div> -->
 				</div>
 			</div>
@@ -89,7 +89,7 @@
 						</div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a id="active" href="sumate.php" class="item">ÚNETE</a>
+					<a id="active" href="sumate.php" class="item">SÚMATE</a>
 				</div>
       		</div>
       
@@ -99,7 +99,7 @@
       		<div id="parallax" class="wow fadeIn row menu-height">
         		<section class="section">
         	    	<div class="ui container">
-        	        	<h3>ÚNETE</h3>    
+        	        	<h3 class="blue-text">SÚMATE</h3>    
         	      	</div>
         	  	</section>
 			</div>
@@ -110,14 +110,14 @@
 						<form class="ui raised segment form">
 						  	<div class="fields">
 						    	<div class="eight wide field">
-						    		<label class="ui black ribbon label">
+						    		<label id="my-blue" class="ui blue ribbon label">
 										<i class="fas fa-signature"></i> Nombre Completo
 									</label>
 						    		<input type="text" placeholder="Nombre Completo">
 								</div>
 
 						    	<div class="eight wide field">
-						      		<label class="ui black right ribbon label">
+						      		<label id="my-blue" class="ui blue right ribbon label">
 										<i class="far fa-envelope"></i> Mail
 									</label>
 						      		<input type="text" placeholder="mail@mail.com">
@@ -126,14 +126,14 @@
 
 						  	<div class="fields">
 						  	  	<div class="eight wide field">
-									<label class="ui black ribbon label">
+									<label id="my-blue" class="ui blue ribbon label">
 										<i class="far fa-building"></i> Nombre de la Organización
 									</label>
 						  	    	<input type="text" placeholder="Ej. Escuela ...">
 						  	  	</div>
 
 								<div class="eight wide field">
-									<label class="ui black right ribbon label">
+									<label id="my-blue" class="ui blue right ribbon label">
 										<i class="fas fa-sitemap"></i> Puesto
 									</label>
 						  	    	<input type="text" placeholder="Ej. Mannager ...">
@@ -142,21 +142,32 @@
 
 							<div class="fields">
 							    <div class="four wide field">
-									<label class="ui black ribbon label">
+									<label id="my-blue" class="ui blue ribbon label">
 										<i class="fas fa-industry"></i> Tipo de Organización
 									</label>
-							    	<input type="text" placeholder="Org">
+									<div class="ui selection dropdown">
+									  <input type="hidden" name="organization">
+									  <i class="dropdown icon"></i>
+									  <div class="default text"> Escuela </div>
+									  <div class="menu">
+									    <div class="item" data-value="1"> Escuela </div>
+										<div class="item" data-value="2"> Empresa </div>
+										<div class="item" data-value="3"> Universidad </div>
+										<div class="item" data-value="4"> Vivienda </div>
+										<div class="item" data-value="5"> Otro </div>
+									  </div>
+									</div>
 								</div>
 
 							    <div class="six wide field">
-									<label class="ui black ribbon label">
+									<label id="my-blue" class="ui blue ribbon label">
 										<i class="fas fa-phone"></i> Número de Teléfono
 									</label>
 							    	<input type="text" placeholder="1234567890">
 								</div>
 
 							    <div class="six wide field">
-									<label class="ui black right ribbon label">
+									<label id="my-blue" class="ui blue right ribbon label">
 										<i class="fas fa-plus"></i> Extensión
 									</label>
 							    	<input type="text" placeholder="1234">
@@ -165,7 +176,7 @@
 
 							<div class="fields">
 							    <div class="sixteen wide field">
-									<label class="ui black ribbon label">
+									<label id="my-blue" class="ui blue ribbon label">
 										<i class="fas fa-directions"></i> Dirección
 									</label>
 									<textarea type="text" placeholder="Calle, Número, Colonia, Alcaldía, Estado ..." rows="2"></textarea>
@@ -174,7 +185,7 @@
 
 							<div class="fields">
 								<div class="sixteen wide field">
-									<label class="ui black ribbon label">
+									<label id="my-blue" class="ui blue ribbon label">
 										<i class="fas fa-question"></i> ¿Cómo se enteró de Grupo Promesa?
 									</label>
 									<textarea type="text" placeholder="Facebook, Instagram, Google, etc ..." rows="1"></textarea>
@@ -183,8 +194,8 @@
 
 							<div class="wow fadeInUp ui one column stackable center aligned page grid">
             	        		<div class="column twelve wide">
-									<button class="ui vertical black animated button" type="submit" tabindex="0">
-            	        		    	<div class="visible content">ÚNETE</div>
+									<button id="my-blue" class="ui vertical animated button" type="submit" tabindex="0">
+            	        		    	<div class="visible content">SÚMATE</div>
             	        		    	<div class="hidden content">
 											<i class="fas fa-paper-plane"></i>
             	        		    	</div>

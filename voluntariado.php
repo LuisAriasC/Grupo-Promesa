@@ -206,7 +206,7 @@
 						<div class="wow fadeInUp ui one column stackable center aligned page grid" data-wow-delay="0.3s">
             	          <div class="column twelve wide">
             	            <a href="img/carta_voluntariado.png" target="_blank">
-            	                <div id="my-green" class="ui vertical animated inverted button" tabindex="0">
+            	                <div id="my-green" class="ui vertical animated button" tabindex="0">
             	                  <div class="visible content">MÁS INFORMACIÓN</div>
             	                  <div class="hidden content">
             	                    <i class="fas fa-info"></i>

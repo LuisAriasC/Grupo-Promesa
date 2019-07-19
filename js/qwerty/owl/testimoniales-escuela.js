@@ -14,10 +14,10 @@ $('#customers-testimonials').owlCarousel({
         items: 1
       },
       600: {
-        items: 2
+        items: 3
       },
       1000: {
-        items: 2
+        items: 3
       }
     }
 });

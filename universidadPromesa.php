@@ -44,7 +44,8 @@ include "php/functions.php";
 					<a href="index.php" class="item">INICIO</a>
 					<a href="aboutUs.php" class="item">SOBRE NOSOTROS</a>
 					<a href="gallery.php" class="item">GALERÍA</a>
-					<div id="active" class="ui dropdown item">NUESTROS PROGRAMAS
+					<div id="active" class="ui dropdown item">
+					  <div id="active" class="text">NUESTROS PROGRAMAS</div>
 					  <i class="dropdown icon"></i>
 					  <div class="menu ui transition hidden">
 						<a href="escuelaPromesa.php" class="item">Escuela</a>

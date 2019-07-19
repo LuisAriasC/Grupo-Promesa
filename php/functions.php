@@ -43,7 +43,7 @@ function carousel($dir) {
     for ($i = 1; $i <= $items-1; $i++) {
       echo "<div class='column item'>";
       echo "<div class='shadow-effect'>";
-      echo "<img src='$dir/$i.png' class='logo-img' alt=''>";
+      echo "<img src='$dir/$i.png' class='ui small centered image' alt=''>";
       echo "</div>";
       echo "</div>";  
     }

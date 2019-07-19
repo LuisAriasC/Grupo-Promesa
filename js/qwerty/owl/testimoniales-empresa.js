@@ -5,7 +5,7 @@ $('#customers-testimonials').owlCarousel({
     margin: 0,
     autoplay: true,
     dots:true,
-    autoplayTimeout: 8500,
+    autoplayTimeout: 15000,
     smartSpeed: 450,
     responsiveClass: true,
     // nav: true
@@ -14,10 +14,10 @@ $('#customers-testimonials').owlCarousel({
         items: 1
       },
       600: {
-        items: 2
+        items: 3
       },
       1000: {
-        items: 2
+        items: 3
       }
     }
 });

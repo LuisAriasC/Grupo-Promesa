@@ -57,7 +57,7 @@
                     </div>
                   </div>
                   <a href="voluntariado.php" class="item item">VOLUNTARIADO</a>
-                  <a href="sumate.php" class="item">ÚNETE</a>
+                  <a href="sumate.php" class="item">SÚMATE</a>
                   <!-- <div class="right menu"></div> -->
               </div>
           </div>
@@ -91,7 +91,7 @@
                       </div>
                   </div>
                   <a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-                  <a href="sumate.php" class="item">ÚNETE</a>
+                  <a href="sumate.php" class="item">SÚMATE</a>
               </div>
           </div>
 
@@ -119,7 +119,7 @@
             <section id="parallax" class="section">
               <div class="ui container">
                 <h3>¿QUIÉNES SOMOS?</h3>
-                  <h2>Somos una empresa social dedicada a desarrollar e implementar programas y estratégias sustentables de alto impacto que solucionen la carencia de educación ambiental en empresas, instituciones educativas, fundaciones y unidades habitaciones, entre otros.</h2>
+                  <h2>Somos una empresa social dedicada a desarrollar e implementar programas y estrategias sustentables de alto impacto que solucionen la carencia de educación ambiental en empresas, instituciones educativas, fundaciones y unidades habitaciones, entre otros.</h2>
                   <h2>Reinvertimos más del 50% del ingreso generado por la venta de los materiales reciclados en nuestro objeto social para fortalecer la educación ambiental en el país.</h2>
               </div>
             </section>
@@ -162,8 +162,8 @@
                       <i class="fa fa-bolt fa-5x"></i>
                       <p id="number-counter" class="counter">16</p>
                       <p>
-                        millondes de<br>
-                        Kwt ahorrados
+                        millones de<br>
+                        kW ahorrados
                       </p>
                     </div>
                   </div>
@@ -188,7 +188,7 @@
                       <i class="fa fa-archive fa-5x"></i>
                       <p id="white-number-counter" class="counter">200</p>
                       <p>
-                        kg de carton donados<br>
+                        kg de carton Tetra Pak donados<br>
                         para ayudar al tratamiento <br>
                         de niños con cancer
                       </p>
@@ -396,7 +396,7 @@
                           <div class="column twelve wide">
                             <a href="promesaIAP.php">
                               <div id="my-blue" class="ui vertical animated button" tabindex="0">
-                                  <div class="visible content">FORMA PARTE DEL CAMBIO</div>
+                                  <div class="visible contentdonados">FORMA PARTE DEL CAMBIO</div>
                                   <div class="hidden content">
                                     <i class="fas fa-hands-helping"></i>
                                 </div>
@@ -473,7 +473,7 @@
                   <div class="column twelve wide">
                     <a href="sumate.php">
                       <div id="my-blue" class="ui vertical animated button" tabindex="0">
-                          <div class="visible content">ÚNETE</div>
+                          <div class="visible content">SÚMATE</div>
                           <div class="hidden content">
                             <i class="fas fa-user-plus"></i>
                           </div>
@@ -494,7 +494,7 @@
                 <h3>Incríbete a nuestro boletín</h3>
 
                 <h2>
-                  Entérate de las noticias y tips mas relevantes <br> sobre el medio ambiente y de Grupo Promesa
+                  Entérate de las noticias y tips más relevantes <br> sobre el medio ambiente y de Grupo Promesa.
                 </h2>
 
                 <div class="wow fadeInUp ui one column stackable center aligned page grid">
