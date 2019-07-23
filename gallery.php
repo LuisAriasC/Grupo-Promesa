@@ -57,7 +57,7 @@ include "php/functions.php";
 					  </div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 					<!-- <div class="right menu"></div> -->
 				</div>
 			</div>
@@ -91,7 +91,7 @@ include "php/functions.php";
 						</div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 				</div>
 			</div>
 

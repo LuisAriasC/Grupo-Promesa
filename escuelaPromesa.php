@@ -21,6 +21,8 @@
 	<link rel="stylesheet" href="css/owlcarousel/owl.theme.default.min.css">
 	<!-- ANIMATE CSS Files -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+	<!-- MAGNIFIC POPUP -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
 
 	<!-- MAIN CSS FILES -->
 	<link href="css/style.css" rel="stylesheet" type="text/css">
@@ -36,7 +38,7 @@
 		============================-->
 		<div class="ui grid">
 
-			<div class="wow fadeIncomputer only row m2">
+			<div class="wow fadeIn computer only row m2">
 				<div id="navbar" class="ui borderless fixed menu">
 					<a href="index.php" id="logo-item" class="brand item">
 					  <img src="img/logo.png" alt="logo">
@@ -57,7 +59,7 @@
 					  </div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 					<!-- <div class="right menu"></div> -->
 				</div>
 			</div>
@@ -92,12 +94,12 @@
 						</div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 				</div>
 			</div>
 
 			<!--==========================
-	          ABOUT US SECTIONL
+	          HEADER IMAGE
 	        ============================-->
 			<div class="wow fadeIn row menu-height">
 				<section id="pintro">
@@ -114,16 +116,125 @@
           	<div class="wow fadeIn row">
 				<section class="section">
 					<div class="ui container">
+						<div class="ui stackable two column grid">
+							<div class="row">
+								<div class="eight wide column">
+									<p>
+										Buscamos transformar la cultura ambiental en las comunidades escolares a través de la implementación de un programa educativo permanente y de constante crecimiento que promueve el desarrollo sostenible desde la sensibilización y la apropiación de conocimientos.
+									</p>
+									<br>
+									<p>
+										Integramos a toda la comunidad escolar fomentando el desarrollo ambiental de los alumnos a través de acciones concretas y medibles.
+									</p>
+								</div>
 
-						<h3>¿QUÉ ES ESCUELA PROMESA?</h3>
-						<p>Es un programa de educación para el desarrollo sostenible que busca transformar la cultura ambiental en las comunidades escolares.</p>
-						<br>
+								<div class="eight wide column" style="margin: auto !important;">
+									<img id="publico-promesa" src="img/escuelaPromesa1.png" alt="" class="ui centered fluid image">
+								</div>
+							</div>
+						</div>
 
-						<h3>EL PÚBLICO QUE INTEGRAMOS</h3>
-						<img id="publico-promesa" src="img/escuelaPromesa1.png" alt="" class="ui fluid image">
+						<div class="wow fadeInUp ui one column stackable center aligned page grid">
+            	        	<div class="column twelve wide">
+								<a href="sumate.php">
+            	                	<div id="my-blue" class="ui vertical animated button" tabindex="0">
+            	                  		<div class="visible content">SÚMATE</div>
+            	                  		<div class="hidden content">
+											<i class="fas fa-user-plus"></i>
+            	                  		</div>
+            	                	</div>
+            	              	</a>
+            	          	</div>
+						</div>
 					</div>
 				</section>
 			  </div>
+
+
+			<!--==========================
+				QUE OFRECEMOS
+          	============================-->
+			  <div class="wow fadeIn row menu-height">
+			  	<section id="green-section"  class="section">
+    			    <div class="ui container">
+						<h3>¿QUÉ OFRECEMOS?</h3>
+						<br>
+
+						<div class="ui stackable two column grid">
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+									<i class="fas fa-search fa-5x"></i>
+									<br>
+									<p>	
+										Seguimiento personalizado con un Coordinador Promesa.
+									</p>
+									<br>
+								</div>
+
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+									  <i class="fas fa-check-circle fa-5x"></i>
+									<br>
+									<p>
+										Integrar nuevas soluciones ambientales para la escuela.
+									</p>	
+									<br>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+									<i class="fas fa-user-graduate fa-5x"></i>
+									<br>
+									<p>
+										Fomentar una educación ambiental de calidad.
+									</p>	
+									<br>
+								</div>
+								
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+									<i class="fas fa-chalkboard-teacher fa-5x"></i>
+									<br>
+									<p>
+										Desarrollar un programa permanente con nuevas tecnologías.
+									</p>	
+									<br>
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+									  <i class="fas fa-award fa-5x"></i>
+									<br>
+									<p>	
+										Alcanzar distintivos y premios ambientales.
+									</p>	
+									<br>
+								</div>
+								
+								<div class="wow fadeIn column" data-wow-delay="0.1s">
+									  <i class="fas fa-chart-pie fa-5x"></i>
+									<br>
+									<p>
+										Registrar el impacto ambiental obtenido por medio de bitácoras e indicadores.
+									</p>	
+									<br>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="wow fadeIn sixteen wide column" data-wow-delay="0.1s">
+									  <i class="fas fa-people-carry fa-5x"></i>
+									<br>
+									<p>
+										Contribuir para que la comunidad escolar sea: proactiva, sensible y comprometida.
+									</p>	
+									<br>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
 			  
 			<!--==========================
 				COMUNIDAD
@@ -131,31 +242,34 @@
           	<div class="wow fadeIn row">
 				<section class="section">
     			    <div class="ui container">
-						<h3>Lo que hacemos se desarrolla en 5 etapas</h3>
+						<h3>¿En qué consiste el programa?</h3>
 						<br>
 
+						<h2>Lo que hacemos se desarrolla en 5 etapas</h2>
+						<p>Da click en las imágenes para conocer más</p>
+
 						<div class="ui stackable five column grid">
-            			  	<div class="row">
+            			  	<div class="row mp-group">
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.01s">
-									<img src="img/EscuelaPromesaSecciones/escuelaPromesa21.png" alt="" class="img-fluid">
-            			    	</div>
+								<a href="img/EscuelaPromesaSecciones/escuelaPromesa21.png" class="wow fadeInUp column" data-wow-delay="0.01s">
+									<img src="img/EscuelaPromesaSecciones/escuelaPromesa21.png" alt="" class="centered steps image">
+								</a>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.02s">
-									<img src="img/EscuelaPromesaSecciones/escuelaPromesa22.png" alt="" class="img-fluid">
-            			    	</div>
+								<a href="img/EscuelaPromesaSecciones/escuelaPromesa22.png" class="wow fadeInUp column" data-wow-delay="0.02s">
+									<img src="img/EscuelaPromesaSecciones/escuelaPromesa22.png" alt="" class="centered steps image">
+								</a>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.03s">
-									<img src="img/EscuelaPromesaSecciones/escuelaPromesa23.png" alt="" class="img-fluid">
-            			    	</div>
+								<a href="img/EscuelaPromesaSecciones/escuelaPromesa23.png" class="wow fadeInUp column" data-wow-delay="0.03s">
+									<img src="img/EscuelaPromesaSecciones/escuelaPromesa23.png" alt="" class="centered steps image">
+								</a>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.04s">
-									<img src="img/EscuelaPromesaSecciones/escuelaPromesa24.png" alt="" class="img-fluid">
-            			    	</div>
+								<a href="img/EscuelaPromesaSecciones/escuelaPromesa24.png" class="wow fadeInUp column" data-wow-delay="0.04s">
+									<img src="img/EscuelaPromesaSecciones/escuelaPromesa24.png" alt="" class="centered steps image">
+								</a>
 
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.05s">
-									<img src="img/EscuelaPromesaSecciones/escuelaPromesa25.png" alt="" class="img-fluid">
-								</div>
+								<a href="img/EscuelaPromesaSecciones/escuelaPromesa25.png" class="wow fadeInUp column" data-wow-delay="0.05s">
+									<img src="img/EscuelaPromesaSecciones/escuelaPromesa25.png" alt="" class="centered steps image">
+								</a>
 
             			  	</div>
 						</div>
@@ -166,6 +280,10 @@
           	<div class="wow fadeIn row">
 			  	<section id="ComunidadPromesa">
     			    <div class="ui container">
+						<h3>¿Estas fuera de CDMX y te interesa nuestro programa?</h3>
+						<br>
+
+						<h2>Inscríbete a Escuela Promesa en Línea</h2>
 						<br>
 						<div class="ui stackable three column grid">
 							<div class="row">
@@ -181,15 +299,16 @@
 								</div>
 							</div>
 						</div>
-						<br>
+						<br> 
+						<h2>Escribe a <span class="blue-text"> <a href="mailto:contacto@grupopromesa.mx?subject=Escuela Promesa en Linea"> contacto@grupopromesa.mx </a> </span> para más información.</h2>
 						<br>
 						<div class="wow fadeInUp ui one column stackable center aligned page grid">
             	        	<div class="column twelve wide">
-								<a href="files/escuelaEnLinea.pdf" target="_blank">
+								<a href="sumate.php">
             	                	<div id="my-blue" class="ui vertical animated button" tabindex="0">
-            	                  		<div class="visible content">MÁS INFORMACIÓN</div>
+            	                  		<div class="visible content">SÚMATE</div>
             	                  		<div class="hidden content">
-            	                    		<i class="fa fa-info"></i>
+											<i class="fas fa-user-plus"></i>
             	                  		</div>
             	                	</div>
             	              	</a>
@@ -264,26 +383,6 @@
 					<!--END OF TESTIMONIAL 3 -->
     			</div>
 			</div>
-			
-          	<div class="wow fadeIn row">
-				<section class="section">
- 					<div class="ui container">
-					 	<div class="wow fadeInUp ui one column stackable center aligned page grid">
-            	        	<div class="column twelve wide">
-								<a href="sumate.php">
-            	                	<div id="my-blue" class="ui vertical animated button" tabindex="0">
-            	                  		<div class="visible content">ÚNETE</div>
-            	                  		<div class="hidden content">
-											<i class="fas fa-user-plus"></i>
-            	                  		</div>
-            	                	</div>
-            	              	</a>
-            	          	</div>
-						</div>
- 					</div>
-				</section>
-			</div>
-			
 
 			<!--==========================
 				ALIADOS
@@ -384,6 +483,8 @@
     <script src="js/owlcarousel/owl.carousel.min.js"></script>
 	<!-- WOW JS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+	<!-- MAGNIFIC POPUP -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 
 	<!-- OWL CAROUSEL QUERY --> 
     <script src="js/qwerty/owl/testimoniales-escuela.js"></script>
@@ -391,6 +492,17 @@
 	<script src="js/qwerty/semantic/menu-mandler.js"></script>
 	<!-- WOW QWERTY -->
 	<script src="js/qwerty/wow/wow.js"></script>
+
+	<!-- READY QUERTIES -->
+	<script>
+		$(document).ready(function() {
+			$('.mp-group').magnificPopup({
+  				delegate: 'a', // child items selector, by clicking on it popup will open
+  				type: 'image'
+  			// other options
+			});
+		});
+	</script>
 
 </body>
 </html>

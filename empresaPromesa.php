@@ -55,7 +55,7 @@
 					  	</div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 					<!-- <div class="right menu"></div> -->
 				</div>
 			</div>
@@ -89,7 +89,7 @@
 						</div>
 					</div>
 					<a href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 				</div>
 			</div>
 
@@ -256,7 +256,7 @@
             	          	<div class="column twelve wide">
             	              <a href="sumate.php">
             	                <div class="ui vertical animated inverted button" tabindex="0">
-            	                  <div class="visible content">ÚNETE</div>
+            	                  <div class="visible content">SÚMATE</div>
             	                  <div class="hidden content">
             	                    <i class="fas fa-user-plus green-text"></i>
             	                  </div>

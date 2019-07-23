@@ -3,10 +3,8 @@ $('#customers-testimonials').owlCarousel({
     center: true,
     items: 3,
     margin: 0,
-    autoplay: true,
+    autoplay: false,
     dots:true,
-    autoplayTimeout: 8500,
-    smartSpeed: 450,
     responsiveClass: true,
     // nav: true
     responsive: {

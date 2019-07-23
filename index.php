@@ -386,20 +386,22 @@
                         <img src="img/voluntario_promesa.png">
                       </div>
                       <div class="content">
+
                         <h2 class="title">Promesa I.A.P</h2>
                         <p>
                           Es una institución sin fines de lucro, que a través de estrategias y actividades, busca fomentar una cultura ambiental para mejorar la calidad de vida de las personas.
                         </p>
                       </div>
+
                       <div class="extra content">
                         <div class="ui one column stackable center aligned page grid">
                           <div class="column twelve wide">
                             <a href="promesaIAP.php">
                               <div id="my-blue" class="ui vertical animated button" tabindex="0">
-                                  <div class="visible contentdonados">FORMA PARTE DEL CAMBIO</div>
+                                  <div class="visible content">FORMA PARTE DEL CAMBIO</div>
                                   <div class="hidden content">
                                     <i class="fas fa-hands-helping"></i>
-                                </div>
+                                  </div>
                               </div>
                             </a>
                           </div>

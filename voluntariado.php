@@ -58,7 +58,7 @@
 					  	</div>
 					</div>
 					<a id="active" href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 					<!-- <div class="right menu"></div> -->
 				</div>
 			</div>
@@ -92,7 +92,7 @@
 						</div>
 					</div>
 					<a id="active" href="voluntariado.php" class="item">VOLUNTARIADO</a>
-					<a href="sumate.php" class="item">ÚNETE</a>
+					<a href="sumate.php" class="item">SÚMATE</a>
 				</div>
             </div>
             

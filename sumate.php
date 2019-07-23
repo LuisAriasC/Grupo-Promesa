@@ -99,11 +99,25 @@
       		<div id="parallax" class="wow fadeIn row menu-height">
         		<section class="section">
         	    	<div class="ui container">
-        	        	<h3 class="blue-text">SÚMATE</h3>    
+        	        	<h3 class="blue-text">SÚMATE</h3>
+
+						<div class="wow fadeInUp ui one column stackable center aligned page grid">
+            	        	<div class="column twelve wide">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSfcrQABcwYrzCIe4pBEw1922Y4rgA_UVPtYYWB2nK7LXyYfQQ/viewform?usp=sf_link" target="_blank">
+            	                	<div id="my-blue" class="ui vertical animated button" tabindex="0">
+            	                  		<div class="visible content">SÚMATE</div>
+            	                  		<div class="hidden content">
+											<i class="fas fa-user-plus"></i>
+            	                  		</div>
+            	                	</div>
+            	              	</a>
+            	          	</div>
+						</div>  
         	      	</div>
         	  	</section>
 			</div>
 
+			<!-- 
 			<div id="parallax" class="wow fadeIn row">
 				<section class="section">
         	    	<div class="ui container">  
@@ -206,7 +220,7 @@
 					</div>
         	  	</section>
 			</div>
-
+			-->
 
 			<!--==========================
 				FOOTER
