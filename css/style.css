@@ -135,7 +135,7 @@ iframe {
   width: 100vw;
   height: 92.7vh;
   margin-top: 0;
-  background: url(../img/portada.jpg) no-repeat 50% 50% !important;
+  background: url(../img/index/header.jpg) no-repeat 50% 50% !important;
   background-size: cover !important;
 }
 
@@ -418,6 +418,94 @@ section .img2{
   }
 }
 
+/* parallax2 Section
+--------------------------------*/
+#parallax2 {
+  background: url("../img/backgrounds/platicaFondo.png") center top no-repeat fixed;
+  background-size: cover;
+  position: relative;
+}
+
+#parallax2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.85);
+  z-index: 9;
+}
+
+#parallax2 .container {
+  position: relative;
+  z-index: 10;
+}
+
+#parallax2 .parallax-item .quote-sign-left {
+  margin-top: -15px;
+  padding-right: 10px;
+  display: inline-block;
+  width: 37px;
+}
+
+#parallax2 .parallax-item .quote-sign-right {
+  margin-bottom: -15px;
+  padding-left: 10px;
+  display: inline-block;
+  max-width: 100%;
+  width: 37px;
+}
+
+#parallax2 .parallax-item p {
+  font-style: italic;
+  margin: 0 auto 15px auto;
+}
+
+@media (min-width: 992px) {
+  #parallax2 .parallax-item p {
+    width: 80%;
+  }
+}
+
+/* parallax3 Section
+--------------------------------*/
+#parallax3 {
+  background: url("../img/voluntariado/info.jpg") center top no-repeat;
+  background-size: cover;
+}
+
+#parallax3 .container {
+  position: relative;
+  z-index: 10;
+}
+
+#parallax3 .parallax-item .quote-sign-left {
+  margin-top: -15px;
+  padding-right: 10px;
+  display: inline-block;
+  width: 37px;
+}
+
+#parallax3 .parallax-item .quote-sign-right {
+  margin-bottom: -15px;
+  padding-left: 10px;
+  display: inline-block;
+  max-width: 100%;
+  width: 37px;
+}
+
+#parallax3 .parallax-item p {
+  font-style: italic;
+  margin: 0 auto 15px auto;
+}
+
+@media (min-width: 992px) {
+  #parallax3 .parallax-item p {
+    width: 80%;
+  }
+}
+
 /*
   GALERIA
 */
@@ -475,6 +563,11 @@ section .img2{
 /* Testimonials Section
 --------------------------------*/
 
+.testimonial{
+  max-width: 350px;
+  margin: auto
+}
+
 .shadow-effect {
   max-width: 450px;
   margin: 0 auto;
@@ -488,7 +581,7 @@ section .img2{
 
 #customers-testimonials .shadow-effect p {
   font-family: inherit;
-  font-size: 17px;
+  font-size: 12px;
   line-height: 1.5;
   margin: 0 0 17px 0;
   font-weight: 300;
@@ -565,8 +658,8 @@ section .img2{
 }
 
 .owl-carousel .owl-stage-outer {
-  padding: 60px 0px;
-  margin-bottom: 30px;
+  padding-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 .owl-carousel .owl-dots .owl-dot.active span,
@@ -616,10 +709,15 @@ display: inline-block;
   width: 50%;
 }
 
-@media (max-width: 768px) {
-  .steps {
-    height: 90vh;
-  }
+.mcenter {
+  position: relative;
+}
+
+.mchild {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
 }
 
 /*--------------------------------------------------------------

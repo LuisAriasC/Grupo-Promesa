@@ -119,7 +119,7 @@
 						<br>
 
 						<div class="wow fadeIn" data-wow-delay="0.2s">
-            	        	<i class="fas fa-tools fa-5x"></i>
+            	        	<i class="fas fa-tools fa-3x"></i>
             	        	<br>
             	        	<p style="color: black">Te damos las herramientas para que puedas generar un cambio desde tu comunidad.</p>
             	        	<br>
@@ -127,7 +127,7 @@
 						</div>
 
 						<div class="wow fadeIn" data-wow-delay="0.2s">
-            	        	<i class="fas fa-school fa-5x"></i>
+            	        	<i class="fas fa-school fa-3x"></i>
             	        	<br>
             	        	<p style="color: black">Ayúdanos a que más empresas y escuelas adopten una Educación Ambiental como parte fundamental de sus procesos de enseñanza.</p>
             	        	<br>
@@ -135,9 +135,9 @@
 						</div>
 
 						<div class="wow fadeIn" data-wow-delay="0.2s">
-							<i class="fas fa-people-carry fa-5x"></i>
+							<i class="fas fa-people-carry fa-3x"></i>
             	        	<br>
-            	        	<p style="color: black">Involúcrate en actividades ambientales con escuelas, empresas y comunidades de atencion prioritaria.</p>
+            	        	<p style="color: black">Involúcrate en actividades ambientales con escuelas, empresas y comunidades de atención prioritaria.</p>
 							<br>
 							<br>
 						</div>
@@ -157,21 +157,21 @@
 						<br>
 						
 						<div class="wow fadeIn" data-wow-delay="0.2s">
-							<i class="fas fa-chalkboard-teacher fa-5x"></i>
+							<i class="fas fa-chalkboard-teacher fa-3x"></i>
             	        	<p >Contar con capacitaciones en temas ambientales de acuerdo a los programas en los que te involucres.</p>
             	        	<br>
             	        	<br>
 						</div>
 
 						<div class="wow fadeIn" data-wow-delay="0.2s">
-            	        	<i class="fas fa-level-up-alt fa-5x"></i>
+            	        	<i class="fas fa-level-up-alt fa-3x"></i>
             	        	<p>Adquirir experiencia como un agente de cambio ambiental.</p>
             	        	<br>
             	        	<br>
 						</div>
 						
 						<div class="wow fadeIn" data-wow-delay="0.2s">
-							<i class="fas fa-globe-americas fa-5x"></i>
+							<i class="fas fa-globe-americas fa-3x"></i>
             	        	<p>Formar parte de la red de Educación Ambiental más grande del mundo.</p>
 							<br>
 							<br>
@@ -197,10 +197,10 @@
 			<!--==========================
 				mas info
 	    	============================-->
-			<div class="wow fadeIn row">
+			<div id="parallax3" class="wow fadeIn row">
 				<section class="section">
             	    <div class="ui container">
-            	        <h3>APRENDE Y CONVIERTETE EN EL LIDER AMBIENTAL QUE NUESTRO PAÍS TANTO NECESITA</h3>
+            	        <h2 style="color: white; font-size: 30px;">APRENDE Y CONVIERTETE EN EL LIDER AMBIENTAL QUE NUESTRO PAÍS TANTO NECESITA</h2>
             	        <br>
 
 						<div class="wow fadeInUp ui one column stackable center aligned page grid" data-wow-delay="0.3s">

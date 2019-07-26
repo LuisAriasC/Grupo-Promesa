@@ -112,37 +112,77 @@
 			<div class="wow fadeIn row">
 				<section class="section">
 					<div class="ui container">
+						<h2>Somos un programa que busca cambiar la cultura ambiental de la sociedad mexicana a través de la formación de una comunidad de empresas líderes en el fortalecimiento de la educación ambiental.</h2>
+						<h2>Nuestro equipo trabaja todos los días para desarrollar e implementar programas personalizados, integrales e innovadores de educación ambiental para el sector empresarial que promuevan un futuro sostenible. </h2>
+						<h2> A través de estrategias y activaciones personalizadas promovemos una cultura ambiental empresarial y ayudamos a cumplir con distintos indicadores necesarios para obtener certificaciones y distintivos como:</h2>
 						<br>
-						<h3>¿QUÉ ES EMPRESA	PROMESA?</h3>
-						<br>
-						<p>Es un programa que integra a las empresas líderes en México en la formación de una comunidad activa en el cuidado del ambiente.</p>
-						<br>
-						<br>
-						<p>EL programa se desarrolla en cuatro etapas</p>
-						<div class="ui stackable four column grid">
 
-            			  	<div class="row">
-
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.01s">
-									<img src="img/EmpresaPromesa/1.png" alt="" class="img-fluid">
-            			    	</div>
-
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.02s">
-									<img src="img/EmpresaPromesa/2.png" alt="" class="img-fluid">
-            			    	</div>
-
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.03s">
-									<img src="img/EmpresaPromesa/3.png" alt="" class="img-fluid">
-            			    	</div>
-
-            			    	<div class="wow fadeInUp column" data-wow-delay="0.04s">
-									<img src="img/EmpresaPromesa/4.png" alt="" class="img-fluid">
+						<div class="ui two column stackable grid">
+							<div class="row">
+								<div class="sixteen wide column">
+									<img src="img/certificaciones/ESR.png" alt="ESR" class="ui small image">
+									<p>Empresa Socialmente Responsable</p>
+									<br>
 								</div>
-            			  	</div>
-						</div>
-						<br>
-						<br>
+							</div>
 
+							<div class="row">
+								<div class="column">
+									<img src="img/certificaciones/industria_limpia.jpg" alt="industria limpia" class="ui small image">
+									<p>Industria Límpia</p>
+									<br>
+								</div>
+
+								<div class="column">
+									<img src="img/certificaciones/GRI.png" alt="GRI" class="ui small image">
+									<p>Reporte de Sustentabilidad GRI</p>
+									<br>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="column">
+									<br>
+									<img src="img/certificaciones/ISO.png" alt="ISO" class="ui medium image">
+									<p>ISO <br> (14031 -14001 - 26000)</p>
+									<br>
+								</div>
+
+								<div class="column">
+									<img src="img/certificaciones/ONU.png" alt="ONU" class="ui small image">
+									<p>Objetivos de Desarrollo Sostenible <br> de la ONU</p>
+									<br>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="column">
+									<img src="img/certificaciones/Bolsa_mexicana_valore.png" alt="BMV" class="ui small image">
+									<p>Índice de Sustentabilidad <br> de la Bolsa Mexicana de Valores</p>
+									<br>
+								</div>
+								
+								<div class="column">
+									<img src="img/certificaciones/NADF.png" alt="NADF" class="ui small image">
+									<p>NADF-024  -  AMBT-2013</p>
+									<br>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+
+			<!--==========================
+				EMPRESA PROMESA
+	        ============================-->
+			<div class="wow fadeIn row">
+				<section class="section">
+					<div class="ui container">
+					<img src="img/empresaHacemos.png" alt="que hacemos" class="ui fluid image">
+					<br>
+					<img src="img/empresaComoHacemos.png" alt="que hacemos" class="ui fluid image">
+					<br>
 					</div>
 				</section>
 			</div>
@@ -153,18 +193,33 @@
 			<div class="wow fadeIn row">
 				<section class="section">
 					<div class="ui container">
-						<h3>CUMPLE CON LOS OBJETIVOS <br> DE DESARROLLO SOSTENIBLE 11, 12 y 13</h3>
+						<h3>CUMPLE CON LOS OBJETIVOS <br> DE DESARROLLO SOSTENIBLE 4, 6, 7, <br> 11, 12, 13, 14 y 15</h3>
 						<br>
-						<div class="ui stackable three column grid">
+						<div class="ui four column grid">
 							<div class="row">
-							  	<div class="wow fadeInUp column" data-wow-delay="0.03s">
+								<div class="wow fadeInUp column">
+								  	<img src="img/ods/04.png" alt="">
+								</div>
+								<div class="wow fadeInUp column" data-wow-delay="0.03s">
+								  	<img src="img/ods/06.png" alt="">
+								</div>
+								<div class="wow fadeInUp column" data-wow-delay="0.06s">
+								  	<img src="img/ods/07.png" alt="">
+								</div>
+							  	<div class="wow fadeInUp column" data-wow-delay="0.09s">
 								  	<img src="img/ods/1.png" alt="">
 								</div>
-							  	<div class="wow fadeInUp column" data-wow-delay="0.06s">
+							  	<div class="wow fadeInUp column" data-wow-delay="0.12s">
 									<img src="img/ods/2.png" alt="">
 								</div>
-							  	<div class="wow fadeInUp column" data-wow-delay="0.1s">
+							  	<div class="wow fadeInUp column" data-wow-delay="0.15s">
 									<img src="img/ods/3.png" alt="">
+								</div>
+								<div class="wow fadeInUp column" data-wow-delay="0.18s">
+									<img src="img/ods/14.png" alt="">
+								</div>
+								<div class="wow fadeInUp column" data-wow-delay="0.21s">
+									<img src="img/ods/15.png" alt="">
 								</div>
 							</div>
 						</div>
@@ -189,28 +244,28 @@
 								<div class="row">
 
 								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  	<i class="fas fa-certificate fa-5x"></i>
+									  	<i class="fas fa-certificate fa-3x"></i>
                     					<br>
 										<p>	Obtener registros necesarios para certificaciones (ISO 14001, ESR, GRI, entre otras).</p>
                     					<br>
 									</div>
 
 								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  	<i class="fas fa-gavel fa-5x"></i>
+									  	<i class="fas fa-gavel fa-3x"></i>
                     					<br>
 										<p> Cumplir la legislación ambiental vigente</p>	
 										<br>
 									</div>
 
 								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
-										<i class="fas fa-chart-line fa-5x"></i>
+										<i class="fas fa-chart-line fa-3x"></i>
                     					<br>
 										<p>	Incrementar la tasa de reciclaje para mitigar el impacto ambiental negativo</p>	
 										<br>
 									</div>
 
 									<div class="wow fadeIn column" data-wow-delay="0.1s">
-										<i class="fas fa-file-alt fa-5x"></i>
+										<i class="fas fa-file-alt fa-3x"></i>
                     					<br>
 										<p>	Contar con registros y reportes de impacto ambiental</p>	
 										<br>
@@ -222,28 +277,27 @@
 								<div class="row">
 
 								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  	<i class="fas fa-dollar-sign fa-5x"></i>
+									  	<i class="fas fa-dollar-sign fa-3x"></i>
                     					<br>
 										<p>	Valorizar los residuos para generar ingresos adicionales</p>	
 										<br>
 									</div>
 
 								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  	<i class="fas fa-leaf fa-5x"></i>
+									  	<i class="fas fa-leaf fa-3x"></i>
                     					<br>
 										<p>	Implementar la cultura ambiental empresarial a través de una mejora continua</p>	
 										<br>
 									</div>
 
 								  	<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  	<i class="fas fa-dot-circle fa-5x"></i>
-                    					<br>
-										<p>	Posicionar a la marca como impulsora de la responsabilidadsocial y ambiental</p>	
+									  	<i class="fas fa-award fa-3x"></i>
+										<p>Posicionar a la marca como impulsora de la responsabilidadsocial y ambiental</p>	
 										<br>
 									</div>
 
 									<div class="wow fadeIn column" data-wow-delay="0.1s">
-										<i class="fas fa-globe fa-5x"></i>
+										<i class="fas fa-globe fa-3x"></i>
                     					<br>
 										<p>	Ser parte de una comunidad de Empresas Líderes Ambientales</p>	
 										<br>
@@ -331,6 +385,23 @@
 					  	</div>
     				</div>
 					<!--END OF TESTIMONIAL 3 -->
+
+					<!--TESTIMONIAL 4 -->
+					<div class="wow fadeIn column item">
+    				  	<div class="shadow-effect">
+							<img id="testimonial-img" src="img/aliados/empresas/pujol.png" class="testimonial-img" alt="">
+							<p>	
+								<i class="fas fa-quote-left"></i>
+								La experiencia que hemos tenido con Empresa Promesa ha sido excelente desde el inicio, cada una de las etapas que conforman su programa ha sido ejecutada con gran apego y disciplina. La inversión total es razonable y uno de los aspectos más interesantes es la Guía Verde que nos envían cada mes indicando los materiales reciclados así como los puntos acumulados, con los cuales se hace una extraordinaria labor social
+								<i class="fas fa-quote-right"></i>
+							</p>
+						</div>
+    				  	<div class="testimonial-name">
+							<h2>Alfonso Olvera</h2>
+							<p> Socio Director <br> Pujol </p>
+					  	</div>
+    				</div>
+					<!--END OF TESTIMONIAL 4 -->
 				</div>
 			</div>		
 			
@@ -341,7 +412,7 @@
 				<section id="nuestrosAliados" class="section">
 					<div class="ui container">
 						<h3>COMUNIDAD DE EMPRESAS ALIADAS</h3>
-						<img class="wow fadeInUp" src="img/aliados/escuelas/escuelas.png" alt="Escuela Promesa">
+						<img class="wow fadeInUp" src="img/aliados/empresas/empresas.jpg" alt="Empresa Promesa">
 					</div>
 				</section><!-- #clients -->
 			</div>

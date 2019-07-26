@@ -144,19 +144,23 @@
 								<div class="row">
 				  					<div class="wow fadeIn column">
 										<i class="fas fa-recycle fa-3x"></i>
-										<p><br>Comienza con un programa de reciclaje</p>
+										<p><br>Comienza con un <br>
+										 programa de reciclaje</p>
 									</div>
   									<div class="wow fadeIn column">
 									  	<i class="fas fa-search-dollar fa-3x"></i>
-    			        				<p><br>Genera ingresos con tus residuos reciclables</p>
+										<p><br>Genera ingresos con <br>
+										 tus residuos reciclables</p>
 									</div>
   									<div class="wow fadeIn column">
 									  	<i class="fas fa-chart-pie fa-3x"></i>
-    			        				<p><br>Obtén bitácoras y estadísticas de tus residuos recolectados</p>
+										<p><br>Obtén bitácoras y estadísticas <br>
+										 de tus residuos recolectados</p>
 									</div>
   									<div class="wow fadeIn column">
 									  	<i class="fas fa-check-double fa-3x"></i>
-										<p><br>Cumple con la norma ambiental de separación de la CDMX </p>
+										<p><br>Cumple con la norma ambiental <br>
+										 de separación de la CDMX </p>
 									</div>
 									<div class="wow fadeIn column">
 										<i class="fas fa-leaf fa-3x"></i>
@@ -165,6 +169,7 @@
 								</div>
 							</div>
 						</div>
+						<br>
 
 						<div class="wow fadeInUp ui one column stackable center aligned page grid">
             	          <div class="column twelve wide">

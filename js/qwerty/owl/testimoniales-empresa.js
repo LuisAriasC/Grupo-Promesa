@@ -1,7 +1,7 @@
 $('#customers-testimonials').owlCarousel({
     loop: true,
     center: true,
-    items: 3,
+    items: 4,
     margin: 0,
     autoplay: false,
     dots:true,

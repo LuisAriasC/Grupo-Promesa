@@ -163,7 +163,7 @@
 						<div class="ui stackable two column grid">
 							<div class="row">
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									<i class="fas fa-search fa-5x"></i>
+									<i class="fas fa-search fa-3x"></i>
 									<br>
 									<p>	
 										Seguimiento personalizado con un Coordinador Promesa.
@@ -172,7 +172,7 @@
 								</div>
 
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  <i class="fas fa-check-circle fa-5x"></i>
+									  <i class="fas fa-check-circle fa-3x"></i>
 									<br>
 									<p>
 										Integrar nuevas soluciones ambientales para la escuela.
@@ -183,7 +183,7 @@
 
 							<div class="row">
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									<i class="fas fa-user-graduate fa-5x"></i>
+									<i class="fas fa-user-graduate fa-3x"></i>
 									<br>
 									<p>
 										Fomentar una educación ambiental de calidad.
@@ -192,7 +192,7 @@
 								</div>
 								
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									<i class="fas fa-chalkboard-teacher fa-5x"></i>
+									<i class="fas fa-chalkboard-teacher fa-3x"></i>
 									<br>
 									<p>
 										Desarrollar un programa permanente con nuevas tecnologías.
@@ -203,7 +203,7 @@
 							
 							<div class="row">
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  <i class="fas fa-award fa-5x"></i>
+									  <i class="fas fa-award fa-3x"></i>
 									<br>
 									<p>	
 										Alcanzar distintivos y premios ambientales.
@@ -212,7 +212,7 @@
 								</div>
 								
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  <i class="fas fa-chart-pie fa-5x"></i>
+									  <i class="fas fa-chart-pie fa-3x"></i>
 									<br>
 									<p>
 										Registrar el impacto ambiental obtenido por medio de bitácoras e indicadores.
@@ -222,8 +222,8 @@
 							</div>
 
 							<div class="row">
+								<i class="fas fa-people-carry fa-3x"></i>
 								<div class="wow fadeIn sixteen wide column" data-wow-delay="0.1s">
-									  <i class="fas fa-people-carry fa-5x"></i>
 									<br>
 									<p>
 										Contribuir para que la comunidad escolar sea: proactiva, sensible y comprometida.
@@ -248,29 +248,31 @@
 						<h2>Lo que hacemos se desarrolla en 5 etapas</h2>
 						<p>Da click en las imágenes para conocer más</p>
 
-						<div class="ui stackable five column grid">
+						<div class="ui five column grid">
             			  	<div class="row mp-group">
 
-								<a href="img/EscuelaPromesaSecciones/escuelaPromesa21.png" class="wow fadeInUp column" data-wow-delay="0.01s">
+								<a href="img/EscuelaPromesaSecciones/etapa_1.png" class="wow fadeInUp column" data-wow-delay="0.01s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa21.png" alt="" class="centered steps image">
 								</a>
 
-								<a href="img/EscuelaPromesaSecciones/escuelaPromesa22.png" class="wow fadeInUp column" data-wow-delay="0.02s">
+								<a href="img/EscuelaPromesaSecciones/etapa_2.png" class="wow fadeInUp column" data-wow-delay="0.02s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa22.png" alt="" class="centered steps image">
 								</a>
 
-								<a href="img/EscuelaPromesaSecciones/escuelaPromesa23.png" class="wow fadeInUp column" data-wow-delay="0.03s">
+								<a href="img/EscuelaPromesaSecciones/etapa_3.png" class="wow fadeInUp column" data-wow-delay="0.03s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa23.png" alt="" class="centered steps image">
 								</a>
 
-								<a href="img/EscuelaPromesaSecciones/escuelaPromesa24.png" class="wow fadeInUp column" data-wow-delay="0.04s">
+								<a href="img/EscuelaPromesaSecciones/etapa_4.png" class="wow fadeInUp column" data-wow-delay="0.04s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa24.png" alt="" class="centered steps image">
 								</a>
 
-								<a href="img/EscuelaPromesaSecciones/escuelaPromesa25.png" class="wow fadeInUp column" data-wow-delay="0.05s">
+								<a href="img/EscuelaPromesaSecciones/etapa_5.png" class="wow fadeInUp column" data-wow-delay="0.05s">
 									<img src="img/EscuelaPromesaSecciones/escuelaPromesa25.png" alt="" class="centered steps image">
 								</a>
 
+								<br>
+								<br>
             			  	</div>
 						</div>
 						<br>
@@ -280,26 +282,23 @@
           	<div class="wow fadeIn row">
 			  	<section id="ComunidadPromesa">
     			    <div class="ui container">
-						<h3>¿Estas fuera de CDMX y te interesa nuestro programa?</h3>
-						<br>
 
-						<h2>Inscríbete a Escuela Promesa en Línea</h2>
-						<br>
-						<div class="ui stackable three column grid">
+						<div class="ui tow stackable column grid">
 							<div class="row">
-
-								<div class="four wide column">
+								<div class="eight wide column mcenter">
+									<div class="mchild">
+										<h3>¿Estás fuera de CDMX y te interesa nuestro programa?</h3>
+									</div>
 								</div>
 
 								<div class="eight wide column">
 									<img src="img/escuelaPromesaEnLinea.png" alt="" class="img-fluid escuelaPromesaEnLinea">
 								</div>
-
-								<div class="four wide column">
-								</div>
 							</div>
 						</div>
-						<br> 
+
+						<br>
+						<h2>Inscríbete a Escuela Promesa en Línea</h2>
 						<h2>Escribe a <span class="blue-text"> <a href="mailto:contacto@grupopromesa.mx?subject=Escuela Promesa en Linea"> contacto@grupopromesa.mx </a> </span> para más información.</h2>
 						<br>
 						<div class="wow fadeInUp ui one column stackable center aligned page grid">
@@ -332,7 +331,7 @@
 			<div class="wow fadeIn row">
 				<div id="customers-testimonials" class="row owl-carousel">
     				<!--TESTIMONIAL 1 -->
-    				<div class="column item">
+    				<div class="column item testimonial">
     				  	<div class="shadow-effect">
 					  		<img id="testimonial-img" src="img/aliados/escuelas/9.png" class="testimonial-img" alt="">
 							<p>
@@ -349,7 +348,7 @@
 					<!--END OF TESTIMONIAL 1 -->
 				
     				<!--TESTIMONIAL 2 -->
-    				<div class="column item">
+    				<div class="column item testimonial">
     				  	<div class="shadow-effect">
 					  		<img id="testimonial-img" src="img/aliados/escuelas/22.png" class="testimonial-img" alt="">
 							<p>
@@ -366,7 +365,7 @@
 					<!--END OF TESTIMONIAL 2 -->
 				
     				<!--TESTIMONIAL 3 -->
-    				<div class="column item">
+    				<div class="column item testimonial">
     				  	<div class="shadow-effect">
 							<img id="testimonial-img" src="img/aliados/escuelas/8.png" class="testimonial-img" alt="">
 							<p>	

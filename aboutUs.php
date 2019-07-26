@@ -101,7 +101,7 @@
 			<!--==========================
 	          QUIENES SOMOS
 	        ============================-->
-			<div id="green-section" class="wow fadeIn row menu-height">
+			<div id="parallax2" class="wow fadeIn row menu-height">
 				<section id="about" class="section">
 					<div class="ui container">
 						<h3>Promotora de un mejor Ambiente Social y Ambiental
@@ -110,21 +110,16 @@
 						<br>
 
         			    <p>
-        			        Iniciamos operaciones en el 2019, creyendo firmemente que la educación es la manera más efectiva para lograr un verdadero cambio en los temas de medio ambiente.                
+							Iniciamos operaciones en el 2009 con el compromiso de mejorar el entorno social y medioambiental en México a través de una educación ambiental de calidad que no solo se quedara en las aulas y horarios de clase, sino que incluyera a todos los sectores de población.
 						</p>
 						<br>
 						<p>
-        			        Mejorar el entorno social y medioambiental en México es una gran meta, por lo que la educación no se puede dejar solo en las escuelas.
-						</p>
-						<br>
-
-						<p>
-        			        Es por esto que decidimos incluir a toda la comunidad: escuelas, universidades,  empresas y casas habitación, creando programas y estrategias de Responsabilidad Social, Ambiental y de Sustentabilidad tomando en cuenta los contexto y necesidades particulares de cada uno, generando así un impacto social y ecológico inmediato mientras se cumple con los más altos estándares internacionales.
+							Es por esto que creamos programas y estrategias de Responsabilidad Social, Ambiental y de Sustentabilidad tomando en cuenta los contexto y necesidades particulares de cada escuela, universidad, empresa y casa habitación generando un impacto social y ecológico inmediato mientras cumplimos con los más altos estándares internacionales.
 						</p>
 						<br>
 
 						<p>
-        			        Nuestro equipo se esfuerza diariamente por perfeccionar nuestros programas, asegurándonos de que se genere el mayor impacto posible ayudando a solucionar la carencia de educación ambiental en México. 
+							Nuestro equipo se esfuerza diariamente por perfeccionar nuestros programas, asegurándonos de que se genere el mayor impacto posible ayudando así a solucionar la carencia de educación ambiental en México.
 						</p>
 						<br>
 					</div>
@@ -135,7 +130,7 @@
 			<!--==========================
 				RECONOCIMIENTOS
 			============================-->
-			<div class="wow fadeIn row">
+			<div id="parallax2" class="wow fadeIn row">
 				<section class="section">
 					<div class="ui container">
 						<h3>RECONOCIMIENTOS</h3>
@@ -143,7 +138,7 @@
 					</div>
 				</section>
 			</div>
-			<div class="wow fadeIn row">
+			<div id="parallax2" class="wow fadeIn row">
 				<div class="ui container">
 
 					<div class='row owl-carousel clients-carousel'>
@@ -215,10 +210,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Julio_Fundador_y_Director_General.jpg">
 									<h2 class="green-text">
-										Julio.
+										Julio
 									</h2>
 									<p>
-										Fundador y director general.
+										Fundador y <br> director general
 									</p>
 									<br>
 									<br>
@@ -227,10 +222,10 @@
 				  				<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Monica_Ingeniera_Ambiental_y_Directora_de_Empresa_Promesa.jpg">
 									<h2 class="green-text">
-										Mónica.
+										Mónica
 									</h2>
 									<p>
-										Directora Empresa Promesa.
+										Directora <br> Empresa Promesa
 									</p>
 									<br>
 									<br>
@@ -239,10 +234,10 @@
     			    		    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Teresita_Directora_de_Escuela_Promesa.jpg">
 									<h2 class="green-text">
-										Teresita.
+										Teresita
 									</h2>
 									<p>
-										Directora Escuela Promesa.
+										Directora <br> Escuela Promesa
 									</p>
 									<br>
 									<br>
@@ -251,10 +246,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Monica_Recursos_Humanos.jpg">
 									<h2 class="green-text">
-										Mónica.
+										Mónica
 									</h2>
 									<p>
-										Recursos Humanos.
+										Recursos Humanos
 									</p>
 									<br>
 									<br>
@@ -265,10 +260,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Nallely_Coordinadora_de_Promesa_IAP.jpg"> 
 									<h2 class="green-text">
-										Nallely.
+										Nallely
 									</h2>
 									<p>
-										Coordinadora de Promesa IAP.
+										Coordinadora <br> Promesa IAP
 									</p>
 									<br>
 									<br>
@@ -277,10 +272,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Ximena_Coordinadora_de_Empresa_Promesa.jpg">
 									<h2 class="green-text">
-										Ximena.
+										Ximena
 									</h2>
 									<p>
-										Coordinadora de Empresa Promesa.
+										Coordinadora <br> Empresa Promesa
 									</p>
 									<br>
 									<br>
@@ -289,10 +284,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Sergio_Coordinador_de_Proyectos_Escolares.jpg">
 									<h2 class="green-text">
-										Sergio.
+										Sergio
 									</h2>
 									<p>
-										Coordinador de Proyectos Escolares.
+										Coordinador <br> Proyectos Escolares
 									</p>
 									<br>
 									<br>
@@ -301,10 +296,10 @@
     			    		    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Larissa_Coordinadora_de_Eventos_Especiales.jpg">
 									<h2 class="green-text">
-										Larissa.
+										Larissa
 									</h2>
 									<p>
-										Coordinadora de Eventos Especiales.
+										Coordinadora <br> Eventos Especiales
 									</p>
 									<br>
 									<br>
@@ -315,10 +310,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Fernando_Coordinador_Empresa_Promesa.jpg">
 									<h2 class="green-text">
-										Fernando.
+										Fernando
 									</h2>
 									<p>
-										Coordinador Empresa Promesa.
+										Coordinador <br> Empresa Promesa
 									</p>
 									<br>
 									<br>
@@ -327,10 +322,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Laura_Coordinadora_de_Proyectos_Escolares.jpg">
 									<h2 class="green-text">
-										Laura.
+										Laura
 									</h2>
 									<p>
-										Coordinadora de Proyectos Escolares.
+										Coordinadora <br> Proyectos Escolares
 									</p>
 									<br>
 									<br>
@@ -339,10 +334,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Antonio_Logística_y_Operaciones.jpg">
 									<h2 class="green-text">
-										Antonio.
+										Antonio
 									</h2>
 									<p>
-										Logística y operaciones.
+										Logística y Operaciones
 									</p>
 									<br>
 									<br>
@@ -351,10 +346,10 @@
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Paola_Marketing_y_Comunicación.jpg">
 									<h2 class="green-text">
-										Paola.
+										Paola
 									</h2>
 									<p>
-										Marketing y comunicación.
+										Marketing y comunicación
 									</p>
 									<br>
 									<br>
@@ -363,12 +358,12 @@
 
 							<div class="row">
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-    			    		        <img class="ui small centered circular image" src="img/employees/Paula_Diseño_y_Producción.jpg">
+    			    		        <img class="ui small centered circular image" src="img/employees/Paula.jpg">
 									<h2 class="green-text">
-										Paula.
+										Paula
 									</h2>
 									<p>
-										Diseño y Producción.
+										Diseño y Producción
 									</p>
 									<br>
 									<br>
@@ -377,10 +372,10 @@
 				  				<div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Aldo_Educador.jpg">
 									<h2 class="green-text">
-										Aldo.
+										Aldo
 									</h2>
 									<p>
-										Educador.
+										Educador
 									</p>
 									<br>
 									<br>
@@ -389,10 +384,10 @@
     			    		    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Romana_Educadora.jpg">
 									<h2 class="green-text">
-										Romana.
+										Romana
 									</h2>
 									<p>
-										Educadora.
+										Educadora
 									</p>
 									<br>
 									<br>
@@ -401,10 +396,10 @@
     			    		    <div class="wow fadeIn column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Jair_Contenido_Ambiental.jpg">
 									<h2 class="green-text">
-										Jair.
+										Jair
 									</h2>
 									<p>
-										Contenido Ambiental.
+										Contenido Ambiental
 									</p>
 									<br>
 									<br>
@@ -415,10 +410,10 @@
 								<div class="ui wow fadeIn four wide column" data-wow-delay="0.1s">
     			    		        <img class="ui small centered circular image" src="img/employees/Adriana_Voluntaria.jpg">
 									<h2 class="green-text">
-										Adriana.
+										Adriana
 									</h2>
 									<p>
-										Voluntariado.
+										Voluntariado
 									</p>
 									<br>
 									<br>

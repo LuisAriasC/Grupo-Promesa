@@ -134,21 +134,23 @@ include "php/functions.php";
 						<div class="ui stackable two column grid">
 							<div class="row">
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									<i class="fas fa-university fa-5x"></i>
+									<i class="fas fa-university fa-3x"></i>
 									<br>
 									<p>	
-										Formar una cultura social y ecológica en toda la comunidad universitaria <br> 
+										Formar una cultura social y ecológica <br>
+										 en toda la comunidad universitaria <br> 
 										para reducir el impacto ambiental negativo
 									</p>
 									<br>
 								</div>
 
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  <i class="fas fa-recycle fa-5x"></i>
+									  <i class="fas fa-recycle fa-3x"></i>
 									<br>
 									<p>
-										Incrementar la tasa del reciclaje a través de un programa integral <br>
-										dereciclaje y valorización de residuos sólidos.
+										Incrementar la tasa del material reciclable <br>
+										 a través de un programa integral de reciclaje <br>
+										y valorización de residuos sólidos.
 									</p>	
 									<br>
 								</div>
@@ -156,7 +158,7 @@ include "php/functions.php";
 
 							<div class="row">
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									<i class="fas fa-chalkboard-teacher fa-5x"></i>
+									<i class="fas fa-chalkboard-teacher fa-3x"></i>
 									<br>
 									<p>
 										Asesoría en manejo de residuos
@@ -165,7 +167,7 @@ include "php/functions.php";
 								</div>
 								
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									<i class="fas fa-hands-helping fa-5x"></i>
+									<i class="fas fa-hands-helping fa-3x"></i>
 									<br>
 									<p>
 										Campañas de reciclaje con causa social
@@ -176,7 +178,7 @@ include "php/functions.php";
 							
 							<div class="row">
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  <i class="fas fa-check-double fa-5x"></i>
+									  <i class="fas fa-check-double fa-3x"></i>
 									<br>
 									<p>	
 										Cumplir con el marco legal y la normatividad local <br>
@@ -186,10 +188,11 @@ include "php/functions.php";
 								</div>
 								
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  <i class="fas fa-users fa-5x"></i>
+									  <i class="fas fa-users fa-3x"></i>
 									<br>
 									<p>
-										Formación y capacitación de un comité de ecología universitario
+										Formación y capacitación de <br>
+										 un comité de ecología universitario
 									</p>	
 									<br>
 								</div>
@@ -197,20 +200,21 @@ include "php/functions.php";
 
 							<div class="row">
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									  <i class="fas fa-calendar-check fa-5x"></i>
+									  <i class="fas fa-calendar-check fa-3x"></i>
 									<br>
 									<p>
-										Seguimiento mensual con el comité de ecología universitario
+										Seguimiento mensual con el comité <br>
+										de ecología universitario
 									</p>	
 									<br>
 								</div>
 
 								<div class="wow fadeIn column" data-wow-delay="0.1s">
-									<i class="fas fa-file-image fa-5x"></i>
+									<i class="fas fa-file-image fa-3x"></i>
 									<br>
 									<p>
-										Entrega mensual de boletín ambiental y material multimedia <br>
-										para sensibilizar a la comunidad escolar
+										Entrega mensual de boletín ambiental y <br> 
+										material multimedia para sensibilizar a la comunidad escolar
 									</p>	
 									<br>
 								</div>

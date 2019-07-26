@@ -96,21 +96,15 @@
           </div>
 
           <!--==========================
-	          IMAGEN DE HEADER INTRO
+	          HEADER IMAGE
 	        ============================-->
-          <div class="wow fadeIn row">
-            <div class="container">
-                <div id="index-header" class="ui container">
-                  <div class="ui index-header-content container">
-                    <div id="header-content" class="content">
-                        <h1 id="iheader" class="ui inverted centered header">
-                          CREEMOS QUE LA EDUCACIÓN AMBIENTAL <br>
-                          ES EL MOTOR PARA CAMBIAR AL MUNDO</h1>
-                    </div>
-                  </div>
-                </div>
-            </div>
-          </div>
+			    <div class="wow fadeIn row">
+			    	<section id="pintro">
+    	    		    <div class="intro-container">
+    	    		        <img src="img/index/header.jpg" alt="Escuela Promesa">
+    	    		    </div>
+			    	</section>
+			    </div>
 
           <!--==========================
 	          ABOUT US SECTIONL
@@ -181,36 +175,25 @@
 
                 <h3>NUESTRO IMPACTO SOCIAL</h3>
 
-                <div class="ui stackable three column grid">
+                <div class="ui stackable two column grid">
                   <div class="row">
-
-                  <div class="wow fadeIn column">
-                      <i class="fa fa-archive fa-5x"></i>
-                      <p id="white-number-counter" class="counter">200</p>
-                      <p>
-                        kg de carton Tetra Pak donados<br>
-                        para ayudar al tratamiento <br>
-                        de niños con cancer
-                      </p>
-                    </div>
 
                     <div class="wow fadeIn column">
                       <i class="fas fa-coins fa-5x"></i>
                       <p id="white-number-counter" class="counter">800</p>
                       <p>
-                        kg de tapitas de plástico <br>
-                        donadas para niños con cancer<br>
-                        infantil
+                        kg de tapitas donadas para el tratamiento <br>
+                         niños con cancer
                       </p>
                     </div>
 
                     <div class="wow fadeIn column">
-                      <i class="fas fa-igloo fa-5x"></i>
+                      <i class="fas fa-home fa-5x"></i>
                       <p id="white-number-counter" class="counter">31</p>
                       <p>
                         techos construidos durante 2018<br>
                         con la donación de 20 toneladas <br>
-                        de tetrapak
+                        de Tetra Pak
                       </p>
                     </div>
 
@@ -235,7 +218,7 @@
 
                     <div class="wow fadeInUp column">
                       <i class="fas fa-school fa-5x"></i>
-                      <p id="number-counter" class="counter">229</p>
+                      <p id="number-counter" class="counter">230</p>
                       <h2 class="title">ESCUELAS</h2>
                     </div>
 
@@ -275,7 +258,7 @@
                   <div class="ui two stackable cards">
                     <div class="wow fadeIn card">
                       <div class="image">
-                        <img src="img/QuienesSomos/1.jpg">
+                        <img src="img/index/programas/escuela.jpg">
                       </div>
                       <div class="content">
                         <h2 class="title">Escuela</h2>
@@ -302,7 +285,7 @@
 
                     <div class="wow fadeIn card">
                       <div class="image">
-                        <img src="img/QuienesSomos/2.jpg">
+                        <img src="img/index/programas/empresa.jpg">
                       </div>
                       <div class="content">
                         <h2 class="title">Empresa</h2>
@@ -330,7 +313,7 @@
 
                     <div class="wow fadeIn card">
                       <div class="image">
-                        <img src="img/QuienesSomos/4.jpg">
+                        <img src="img/index/programas/universidad.jpg">
                       </div>
                       <div class="content">
                         <h2 class="title">Universidad</h2>
@@ -357,7 +340,7 @@
 
                     <div class="wow fadeIn card">
                       <div class="image">
-                        <img src="img/QuienesSomos/3.jpg">
+                        <img src="img/index/programas/vivienda.jpg">
                       </div>
                       <div class="content">
                         <h2 class="title">Vivienda</h2>
@@ -383,14 +366,13 @@
 
                     <div class="wow fadeIn card">
                       <div class="image">
-                        <img src="img/voluntario_promesa.png">
+                        <img src="img/index/programas/promesaiap.jpg">
                       </div>
                       <div class="content">
 
                         <h2 class="title">Promesa I.A.P</h2>
                         <p>
-                          Es una institución sin fines de lucro, que a través de estrategias y actividades, busca fomentar una cultura ambiental para mejorar la calidad de vida de las personas.
-                        </p>
+                        Institución sin fines de lucro que a través de estrategias y actividades busca fomentar una cultura ambiental para mejorar la calidad de vida de las personas.                        </p>
                       </div>
 
                       <div class="extra content">
@@ -411,7 +393,7 @@
 
                     <div class="wow fadeIn card">
                       <div class="image">
-                        <img src="img/voluntario_promesa.png">
+                        <img src="img/index/programas/voluntariado.jpg">
                       </div>
                       <div class="content">
                         <h2 class="title">Voluntarios</h2>         
@@ -493,7 +475,7 @@
           <div class="wow fadeIn row">
             <section class="section">
 	          	<div class="ui container">
-                <h3>Incríbete a nuestro boletín</h3>
+                <h3>Inscríbete a nuestro boletín</h3>
 
                 <h2>
                   Entérate de las noticias y tips más relevantes <br> sobre el medio ambiente y de Grupo Promesa.
