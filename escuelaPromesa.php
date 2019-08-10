@@ -120,7 +120,7 @@
 							<div class="row">
 								<div class="eight wide column">
 									<p>
-										Buscamos transformar la cultura ambiental en las comunidades escolares a través de la implementación de un programa educativo permanente y de constante crecimiento que promueve el desarrollo sostenible desde la sensibilización y la apropiación de conocimientos.
+										Buscamos transformar la cultura ambiental en las comunidades escolares a través de la implementación de un programa educativo permanente y de constante crecimiento que promueve el Desarrollo Sostenible desde la sensibilización y la apropiación de conocimientos.
 									</p>
 									<br>
 									<p>
@@ -215,7 +215,7 @@
 									  <i class="fas fa-chart-pie fa-3x"></i>
 									<br>
 									<p>
-										Registrar el impacto ambiental obtenido por medio de bitácoras e indicadores.
+										Registrar el Impacto Ambiental obtenido por medio de bitácoras e indicadores.
 									</p>	
 									<br>
 								</div>
@@ -292,7 +292,7 @@
 								</div>
 
 								<div class="eight wide column">
-									<img src="img/escuelaPromesaEnLinea.png" alt="" class="img-fluid escuelaPromesaEnLinea">
+									<img src="img/escuelaPromesaEnLinea.png" alt="" class="ui image" style="margin-top: 35px !important; width: 50%;">
 								</div>
 							</div>
 						</div>

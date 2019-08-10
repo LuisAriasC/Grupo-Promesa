@@ -20,6 +20,10 @@ include "php/functions.php";
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" rel="stylesheet" />
 	<!-- LIGHTBOX CSS Files -->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" rel="stylesheet">
+	
+	<!-- OWLCAROUSEL CSS FILES -->
+	<link rel="stylesheet" href="css/owlcarousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owlcarousel/owl.theme.default.min.css">
 	<!-- ANIMATE CSS Files -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     
@@ -102,15 +106,16 @@ include "php/functions.php";
 			  	<section id="gallery-section" class="section">
 					<div class="ui container">
 						<h3>GALERÍA</h3>
-						<br>
-						<br>
-
-						<div id="instafeed" class="ui four stackable column grid gallery">
-						</div>
 					</div>
 				</section>
-          	</div>
-
+			</div>
+			
+			<div class="wow fadeIn row">
+				<div class = "ui container">
+					<div id="instafeed" class="ui four stackable link cards"></div>
+					<br>
+				</div>
+			</div>
 
 			<!--==========================
 				FOOTER
@@ -201,13 +206,17 @@ include "php/functions.php";
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
 	<!-- WOW JS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <!-- Owl Carousel JS -->
+	<script src="js/owlcarousel/owl.carousel.min.js"></script>
 
     <!-- SEMANTIC UI QUERY -->
 	<script src="js/qwerty/semantic/menu-mandler.js"></script>
 	<!-- GET GALLERY QUERTY -->
 	<script src="js/qwerty/instafeed/gallery.js"></script>
     <!-- LIGHTBOX QWERTY -->
-    <script src="js/qwerty/lightbox/lightbox.js"></script>	
+	<script src="js/qwerty/lightbox/lightbox.js"></script>
+	<!-- OWL CAROUSEL QUERY --> 
+	<script src="js/qwerty/owl/gallery.js"></script>
     <!-- WOW QWERTY -->
     <script src="js/qwerty/wow/wow.js"></script>
 

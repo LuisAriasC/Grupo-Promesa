@@ -113,8 +113,8 @@
             <section id="parallax" class="section">
               <div class="ui container">
                 <h3>¿QUIÉNES SOMOS?</h3>
-                  <h2>Somos una empresa social dedicada a desarrollar e implementar programas y estrategias sustentables de alto impacto que solucionen la carencia de educación ambiental en empresas, instituciones educativas, fundaciones y unidades habitaciones, entre otros.</h2>
-                  <h2>Reinvertimos más del 50% del ingreso generado por la venta de los materiales reciclados en nuestro objeto social para fortalecer la educación ambiental en el país.</h2>
+                  <h2> Somos una empresa social dedicada a desarrollar e implementar programas y estrategias sustentables de alto impacto que solucionen la carencia de educación ambiental en instituciones educativas, empresas, viviendas y organizaciones, entre otras. </h2>
+                  <h2> Como parte de los programas impulsamos a la separación de residuos sólidos reciclables para su venta y reinvertimos más del 50% del ingreso generado en nuestro objeto social para fortalecer la educación ambiental en el país. </h2>
               </div>
             </section>
           </div>
@@ -182,8 +182,8 @@
                       <i class="fas fa-coins fa-5x"></i>
                       <p id="white-number-counter" class="counter">800</p>
                       <p>
-                        kg de tapitas donadas para el tratamiento <br>
-                         niños con cancer
+                        kg de tapitas donadas para fondear el tratamiento <br>
+                        de niños con cáncer.
                       </p>
                     </div>
 
@@ -191,9 +191,8 @@
                       <i class="fas fa-home fa-5x"></i>
                       <p id="white-number-counter" class="counter">31</p>
                       <p>
-                        techos construidos durante 2018<br>
-                        con la donación de 20 toneladas <br>
-                        de Tetra Pak
+                        techos construidos durante 2018 con la donación de 20 <br> 
+                        toneladas de envases Tetra Pak.
                       </p>
                     </div>
 
@@ -291,7 +290,7 @@
                         <h2 class="title">Empresa</h2>
 
                         <p>
-                          Es un programa que integra a las empresas líderes en México en la formación de una comunidad activa en el cuidado del ambiente.
+                          Programa que integra a las empresas líderes en México en la formación de una comunidad activa en el cuidado del medio ambiente.
                         </p>
 
                       </div>
@@ -318,9 +317,8 @@
                       <div class="content">
                         <h2 class="title">Universidad</h2>
                         <p>
-                          Es un programa que ayuda a desarrollar propuestas de mejora e innovación enfocadas en el cuidado del ambiente promoviendo el liderazgo y compromiso socio ambiental en la comunidad universitaria.
+                          Programa que promueve el liderazgo y compromiso socio-ambiental en comunidades universitarias a través de generar propuestas de intervención y mejora.
                         </p>
-
                       </div>
                       <div class="extra content">
                         <div class="ui one column stackable center aligned page grid">
@@ -345,7 +343,7 @@
                       <div class="content">
                         <h2 class="title">Vivienda</h2>
                         <p>
-                          La educación ambiental comienza desde casa, implementa tu propio programa de reciclaje.
+                          Programa que implementa soluciones particulares para viviendas, unidades habitacionales y condominios del área metropolitana.
                         </p>
                       </div>
                       <div class="extra content">
@@ -372,7 +370,8 @@
 
                         <h2 class="title">Promesa I.A.P</h2>
                         <p>
-                        Institución sin fines de lucro que a través de estrategias y actividades busca fomentar una cultura ambiental para mejorar la calidad de vida de las personas.                        </p>
+                          Institución sin fines de lucro que busca mejorar la calidad de vida de las personas y transformar la cultura ambiental fomentando estrategias y actividades comunitarias para el mejoramiento del espacio.
+                        </p>
                       </div>
 
                       <div class="extra content">
@@ -398,9 +397,8 @@
                       <div class="content">
                         <h2 class="title">Voluntarios</h2>         
                         <p>
-                        Como Voluntario Promesa tendrás la oportunidad de formar parte del cambio en la cultura ambiental de México y dejar una huella positiva en el mundo.
+                          Programa que busca formar agentes líderes de cambio otorgando las herramientas necesarias para formar parte un cambio en la cultura ambiental de México y dejar una huella positiva en el mundo.
                         </p>
-
                       </div>
                       <div class="extra content">
                         <div class="ui one column stackable center aligned page grid">

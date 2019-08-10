@@ -1,23 +1,23 @@
 $('.clients-carousel').owlCarousel({
-    loop: true,
-    center: true,
-    items: 3,
-    margin: 0,
-    autoplay: true,
-    dots:true,
-    autoplayTimeout: 8500,
-    smartSpeed: 450,
-    responsiveClass: true,
-    // nav: true
-    responsive: {
-      0: {
-        items: 1
+  loop: true,
+  center: true,
+  items: 7,
+  margin: 0,
+  autoplay: true,
+  dots: true,
+  aytoplayTimeout: 5000,
+  smartSpeed: 500,
+  responsiveClass: true,
+  // nav: true
+  responsive:{
+      0:{
+          items:2
       },
-      600: {
-        items: 2
+      600:{
+          items:2
       },
       1000: {
-        items: 2
+          items:3
       }
-    }
+  }
 });

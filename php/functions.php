@@ -39,9 +39,9 @@ function countFolder($dir) {
 
 function carousel($dir) {
     $items = countFolder($dir);
-    echo "<div class='row owl-carousel clients-carousel'>";
+    echo "<div class='owl-carousel clients-carousel'>";
     for ($i = 1; $i <= $items-1; $i++) {
-      echo "<div class='column item'>";
+      echo "<div class='item'>";
       echo "<div class='shadow-effect'>";
       echo "<img src='$dir/$i.png' class='ui small centered image' alt=''>";
       echo "</div>";

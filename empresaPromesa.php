@@ -115,62 +115,96 @@
 						<h2>Somos un programa que busca cambiar la cultura ambiental de la sociedad mexicana a través de la formación de una comunidad de empresas líderes en el fortalecimiento de la educación ambiental.</h2>
 						<h2>Nuestro equipo trabaja todos los días para desarrollar e implementar programas personalizados, integrales e innovadores de educación ambiental para el sector empresarial que promuevan un futuro sostenible. </h2>
 						<h2> A través de estrategias y activaciones personalizadas promovemos una cultura ambiental empresarial y ayudamos a cumplir con distintos indicadores necesarios para obtener certificaciones y distintivos como:</h2>
-						<br>
+					</div>
+				</section>
+			</div>
 
-						<div class="ui two column stackable grid">
-							<div class="row">
-								<div class="sixteen wide column">
-									<img src="img/certificaciones/ESR.png" alt="ESR" class="ui small image">
-									<p>Empresa Socialmente Responsable</p>
-									<br>
-								</div>
-							</div>
+			<div class="wow fadeIn row">
+				<div class="ui container">
 
-							<div class="row">
-								<div class="column">
-									<img src="img/certificaciones/industria_limpia.jpg" alt="industria limpia" class="ui small image">
-									<p>Industria Límpia</p>
-									<br>
-								</div>
+					<div class='row owl-carousel clients-carousel'>
 
-								<div class="column">
-									<img src="img/certificaciones/GRI.png" alt="GRI" class="ui small image">
-									<p>Reporte de Sustentabilidad GRI</p>
-									<br>
-								</div>
-							</div>
-
-							<div class="row">
-								<div class="column">
-									<br>
-									<img src="img/certificaciones/ISO.png" alt="ISO" class="ui medium image">
-									<p>ISO <br> (14031 -14001 - 26000)</p>
-									<br>
-								</div>
-
-								<div class="column">
-									<img src="img/certificaciones/ONU.png" alt="ONU" class="ui small image">
-									<p>Objetivos de Desarrollo Sostenible <br> de la ONU</p>
-									<br>
-								</div>
-							</div>
-
-							<div class="row">
-								<div class="column">
-									<img src="img/certificaciones/Bolsa_mexicana_valore.png" alt="BMV" class="ui small image">
-									<p>Índice de Sustentabilidad <br> de la Bolsa Mexicana de Valores</p>
-									<br>
-								</div>
-								
-								<div class="column">
-									<img src="img/certificaciones/NADF.png" alt="NADF" class="ui small image">
-									<p>NADF-024  -  AMBT-2013</p>
-									<br>
+    				  	<div class='column item'>
+    				  		<div class='shadow-effect'>
+							  	<img src="img/certificaciones/ESR.png" alt="ESR" class="ui small centered image">
+								<div class="price-content">
+									<h4>
+										Empresa Socialmente <br>
+										Responsable
+									</h4>
 								</div>
 							</div>
 						</div>
+						
+						<div class='column item'>
+    				  		<div class='shadow-effect'>
+							  	<img src="img/certificaciones/industria_limpia.jpg" alt="industria limpia" class="ui small centered image">
+								<div class="price-content">
+									<h4>
+										Industria Límpia
+									</h4>
+								</div>
+							</div>
+						</div>
+						
+						<div class='column item'>
+    				  		<div class='shadow-effect'>
+							  	<img src="img/certificaciones/GRI.png" alt="GRI" class="ui small centered image">
+								<div class="price-content">
+									<h4>
+										Reporte de Sustentabilidad <br>
+										GRI
+									</h4>
+								</div>
+							</div>
+						</div>
+
+						<div class='column item'>
+    				  		<div class='shadow-effect'>
+							  <img src="img/certificaciones/ISO.png" alt="ISO" class="ui medium centered image">
+							  <br>
+							  <div class="price-content">
+									<h4>
+										ISO <br> (14031 -14001 - 26000)
+									</h4>  
+								</div>
+							</div>
+						</div>
+						
+						<div class='column item'>
+    				  		<div class='shadow-effect'>
+							  <img src="img/certificaciones/ONU.png" alt="ONU" class="ui small centered image">
+							  <div class="price-content">
+									<h4>
+										Objetivos de Desarrollo Sostenible <br> de la ONU
+									</h4>  
+								</div>
+							</div>
+						</div>
+						
+						<div class='column item'>
+    				  		<div class='shadow-effect'>
+							  <img src="img/certificaciones/Bolsa_mexicana_valore.png" alt="BMV" class="ui small centered image">
+							  <div class="price-content">
+									<h4>
+										Índice de Sustentabilidad <br> de la Bolsa Mexicana de Valores
+									</h4>  
+								</div>
+							</div>
+						</div>
+						
+						<div class='column item'>
+    				  		<div class='shadow-effect'>
+							  <img src="img/certificaciones/NADF.png" alt="NADF" class="ui small centered image">
+							  <div class="price-content">
+									<h4>
+										NADF-024  -  AMBT-2013
+									</h4>  
+								</div>
+							</div>
+    					</div>
 					</div>
-				</section>
+				</div>
 			</div>
 
 			<!--==========================
@@ -179,10 +213,16 @@
 			<div class="wow fadeIn row">
 				<section class="section">
 					<div class="ui container">
-					<img src="img/empresaHacemos.png" alt="que hacemos" class="ui fluid image">
-					<br>
-					<img src="img/empresaComoHacemos.png" alt="que hacemos" class="ui fluid image">
-					<br>
+						<div class="ui stackable two column grid">
+							<div class="row">
+								<div class="column">
+									<img src="img/empresaHacemos.png" alt="que hacemos" class="ui fluid image">
+								</div>
+								<div class="column">
+									<img src="img/empresaComoHacemos.png" alt="como hacemos" class="ui fluid image">
+								</div>
+							</div>
+						</div>
 					</div>
 				</section>
 			</div>
@@ -198,28 +238,34 @@
 						<div class="ui four column grid">
 							<div class="row">
 								<div class="wow fadeInUp column">
-								  	<img src="img/ods/04.png" alt="">
+								  	<img src="img/ods/04.png" alt="ods1" class="ui small image">
 								</div>
 								<div class="wow fadeInUp column" data-wow-delay="0.03s">
-								  	<img src="img/ods/06.png" alt="">
+								  	<img src="img/ods/06.png" alt="ods2" class="ui small image">
 								</div>
 								<div class="wow fadeInUp column" data-wow-delay="0.06s">
-								  	<img src="img/ods/07.png" alt="">
+								  	<img src="img/ods/07.png" alt="ods3" class="ui small image">
 								</div>
 							  	<div class="wow fadeInUp column" data-wow-delay="0.09s">
-								  	<img src="img/ods/1.png" alt="">
+								  	<img src="img/ods/1.png" alt="ods4" class="ui small image">
 								</div>
+							</div>
+						</div>
+						<br>
+						<br>
+						<div class="ui four column grid">
+							<div class="row">
 							  	<div class="wow fadeInUp column" data-wow-delay="0.12s">
-									<img src="img/ods/2.png" alt="">
+									<img src="img/ods/2.png" alt="ods5" class="ui small image">
 								</div>
 							  	<div class="wow fadeInUp column" data-wow-delay="0.15s">
-									<img src="img/ods/3.png" alt="">
+									<img src="img/ods/3.png" alt="ods6" class="ui small image">
 								</div>
 								<div class="wow fadeInUp column" data-wow-delay="0.18s">
-									<img src="img/ods/14.png" alt="">
+									<img src="img/ods/14.png" alt="ods7" class="ui small image">
 								</div>
 								<div class="wow fadeInUp column" data-wow-delay="0.21s">
-									<img src="img/ods/15.png" alt="">
+									<img src="img/ods/15.png" alt="ods8" class="ui small image">
 								</div>
 							</div>
 						</div>

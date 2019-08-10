@@ -95,6 +95,12 @@ iframe {
 	margin-top: 9.3vh !important;
 }
 
+.negative-menu-height {
+	margin-top: -18vh !important;
+}
+
+
+
 #logo-item img {
   padding: 0;
   margin: 0;
@@ -433,7 +439,7 @@ section .img2{
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.75);
   z-index: 9;
 }
 
@@ -581,7 +587,7 @@ section .img2{
 
 #customers-testimonials .shadow-effect p {
   font-family: inherit;
-  font-size: 12px;
+  font-size: 18px;
   line-height: 1.5;
   margin: 0 0 17px 0;
   font-weight: 300;
@@ -883,4 +889,14 @@ display: inline-block;
 
 #googleMap {
   margin-top: 20px;
+}
+
+@media only screen and (max-width: 767px){
+  .ui.container {
+    margin: 0 auto !important;
+  }
+}
+
+.cent-align{
+  margin: auto 0;
 }

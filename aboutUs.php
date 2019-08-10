@@ -110,16 +110,16 @@
 						<br>
 
         			    <p>
-							Iniciamos operaciones en el 2009 con el compromiso de mejorar el entorno social y medioambiental en México a través de una educación ambiental de calidad que no solo se quedara en las aulas y horarios de clase, sino que incluyera a todos los sectores de población.
+							Iniciamos operaciones en el 2009 con el compromiso de contribuir a la mejora de la realidad social y medioambiental en México a través de una educación ambiental de calidad que fuera más allá de las instituciones educativas e incluyera a todos los sectores de población.
 						</p>
 						<br>
 						<p>
-							Es por esto que creamos programas y estrategias de Responsabilidad Social, Ambiental y de Sustentabilidad tomando en cuenta los contexto y necesidades particulares de cada escuela, universidad, empresa y casa habitación generando un impacto social y ecológico inmediato mientras cumplimos con los más altos estándares internacionales.
+							Es por esto que creamos programas y estrategias que promueven la Responsabilidad Ambiental, Social y de Sustentabilidad tomando en cuenta los contextos y necesidades particulares de cada escuela, empresa, universidad y vivienda generando impactos positivos inmediatos mientras cumplimos con los más altos estándares internacionales.
 						</p>
 						<br>
 
 						<p>
-							Nuestro equipo se esfuerza diariamente por perfeccionar nuestros programas, asegurándonos de que se genere el mayor impacto posible ayudando así a solucionar la carencia de educación ambiental en México.
+							Nuestro equipo se esfuerza diariamente por perfeccionar nuestros programas, asegurándonos que se genere el mayor impacto posible contribuyendo a solucionar la carencia de educación ambiental en México.
 						</p>
 						<br>
 					</div>
@@ -147,7 +147,7 @@
 								<img class="ui small centered image" src="img/premios/1.png" alt="">
 								<div class="price-content">
 									<h4>
-										Certificdo Lationoamérica Verde <br>
+										Certificado Lationoamérica Verde <br>
 										2017
 									</h4>
 								</div>
@@ -263,7 +263,7 @@
 										Nallely
 									</h2>
 									<p>
-										Coordinadora <br> Promesa IAP
+										Coordinadora <br> Promesa I.A.P.
 									</p>
 									<br>
 									<br>
@@ -375,7 +375,7 @@
 										Aldo
 									</h2>
 									<p>
-										Educador
+										Educador Ambiental
 									</p>
 									<br>
 									<br>
@@ -387,7 +387,7 @@
 										Romana
 									</h2>
 									<p>
-										Educadora
+										Educadora Ambiental
 									</p>
 									<br>
 									<br>
@@ -413,7 +413,7 @@
 										Adriana
 									</h2>
 									<p>
-										Voluntariado
+										Voluntaria
 									</p>
 									<br>
 									<br>
